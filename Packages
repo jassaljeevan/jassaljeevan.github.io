@@ -1,17 +1,17 @@
 Package: com.jassaljeevan.fallout4slider
-Version: 1.2-7
+Version: 1.2-8
 Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
-Filename: ./debs/com.jassaljeevan.fallout4slider_1.2-7_iphoneos-arm.deb
-Size: 52432
-MD5sum: cfb282f75db4e03620b6576a60344bd5
-SHA1: ba3d4ea46489d09fe90fa567eb11104d4a746389
-SHA256: 5b0a4f8dc025cccf3c7d3c26d826271dc8bc6c92681a0e806e40585852798975
+Filename: ./debs/com.jassaljeevan.fallout4slider_1.2-8_iphoneos-arm.deb
+Size: 52430
+MD5sum: 43abc4b12da918a891b61db0916aeae6
+SHA1: 8b05f0b28889e8af39fdf98bf710ffa4d99b0ffe
+SHA256: 5143eae4c8254d29f1d8136c0982f0f7e88aa382f7f2bbf6d1293f9a7c580475
 Section: Sliders
 Description: Lock screen slider of the Fallout 4 game
  Works with both Anemone and WinterBoard
  &nbsp;
- *Compatible with all devices running iOS 7 - 9+
+ Compatible with all devices running iOS 7 - 9+
  &nbsp;
  This is a lock screen slider of the Fallout 4 video game. This package
  includes a slider of the game logo as well as a slider of the Fallout

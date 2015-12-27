@@ -1,11 +1,11 @@
 Package: com.jassaljeevan.fallout4slider
 Name: Fallout 4 Slider
-Version: 1.2-7
+Version: 1.2-8
 Architecture:iphoneos-arm
 Description: Lock screen slider of the Fallout 4 game
  Works with both Anemone and WinterBoard
  &nbsp;
- *Compatible with all devices running iOS 7 - 9+
+ Compatible with all devices running iOS 7 - 9+
  &nbsp;
  This is a lock screen slider of the Fallout 4 video game. This package
  includes a slider of the game logo as well as a slider of the Fallout
