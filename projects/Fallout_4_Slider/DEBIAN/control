@@ -1,6 +1,6 @@
 Package: com.jassaljeevan.fallout4slider
 Name: Fallout 4 Slider
-Version: 1.2-3
+Version: 1.2-4
 Architecture:iphoneos-arm
 Description: Lock screen slider of the Fallout 4 game
  Works with both Anemone and WinterBoard
@@ -11,7 +11,7 @@ Description: Lock screen slider of the Fallout 4 game
  includes a slider of the game logo as well as a slider of the Fallout
  Boy. See the screenshots for more info.
  &nbsp;
- You can email me at jassaljeevan@gmail.com for requests and support.
+ You can email me at <jassaljeevan@gmail.com> for requests and support.
  You can send me requests for a donation of $2.00. There is a PayPal
  link below for donations. Thank you to all those who support me by
  donating.
