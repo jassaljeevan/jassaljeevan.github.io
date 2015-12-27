@@ -1,0 +1,9 @@
+Package: com.jassaljeevan.fallout4slider
+Name: Fallout 4 Slider
+Version: 1.2
+Architecture:iphoneos-arm
+Description: Lock screen slider of the Fallout 4 game
+Depiction: http://jassaljeevan.com
+Maintainer: JassalJeevan <jassaljeevan@gmail.com>
+Author: JassalJeevan <jassaljeevan@gmail.com>
+Section: Sliders

@@ -1,0 +1,8 @@
+Origin: Jassal Jeevan Repo
+Label: Jassal Jeevan Repo
+Suite: Stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+components: main
+Description: Jassal Jeevan Repo
