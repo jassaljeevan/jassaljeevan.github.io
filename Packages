@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.fallout4slider_1.2-1_iphoneos-arm.deb
 Size: 52044
-MD5sum: b1b5fb05f17de3f89f409ac67fbd895f
-SHA1: 860da8e2e7d1ab789b396bd3f0f9fc369237187e
-SHA256: 5adccbcef7e68ac90ad7a89cc420cfe4d8a95773893b875c84a6fc4f6720a959
+MD5sum: 9c9a8639f34634bac41186abbf3dc48f
+SHA1: 93498283575142109f920844f72191082a88297a
+SHA256: 3520a1a369f397c8824363596c657876050bd99180ed027fe0246616be9a1585
 Section: Sliders
 Description: Lock screen slider of the Fallout 4 game
 Author: JassalJeevan <jassaljeevan@gmail.com>
