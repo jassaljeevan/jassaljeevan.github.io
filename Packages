@@ -1,15 +1,14 @@
 Package: com.jassaljeevan.fallout4slider
-Version: 1.2-12
+Version: 1.2-12a
 Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
-Filename: ./debs/com.jassaljeevan.fallout4slider_1.2-12_iphoneos-arm.deb
+Filename: ./debs/com.jassaljeevan.fallout4slider_1.2-12a_iphoneos-arm.deb
 Size: 52566
-MD5sum: aad07807bb87b69f8146a8b0f347f06a
-SHA1: f951e7693f51e2e489cf1fef213355343c38631b
-SHA256: 7d35e15ea087a73db77bd6e42ff8641f1fa2902ada770b5df109a6527cd0f20d
+MD5sum: 3a8f59a90d808b959c1a4ecefc2a8e72
+SHA1: 7eac90a3acc0bddd0a10244dca342fc57609af7a
+SHA256: db6aea87f036e031babe70e3327c0b63d4870ed85db860b89b69e8a94e1b9b98
 Section: Sliders
 Description: Lock screen slider of the Fallout 4 game
- <p></p>
  <p>Works with both Anemone and WinterBoard!</p>
  <p>Compatible with all devices running iOS 7 - 9+</p>
  <p>This is a lock screen slider of the Fallout 4 video game. This package
@@ -26,9 +25,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.jassaljeevaniconpack_0.0.1_iphoneos-arm.deb
 Size: 36770
-MD5sum: 998d6b0bb04ad4a132199470ae3574e6
-SHA1: fd845b306032d00dd414ddf7d6f01c45bcf26a60
-SHA256: da4dff39278f0c8752d2c8d47f24144d3598f97938f47f52ba704c37ff530b2c
+MD5sum: 88115314a34f44f5029d5b0a44689aa1
+SHA1: dfd040b74d12a6b9f1b07bd4a93875e2fa554058
+SHA256: a416e0b73e40288859bcbb3322542df6c0b4b3a2f34cd14886b43fea3579a61a
 Section: Repo
 Description: Repo Icons for the JassalJeevan Repo
  Install this icon pack in order to see the package icons for the JassalJeevan Repo instead of the ungly grey question mark icon.
