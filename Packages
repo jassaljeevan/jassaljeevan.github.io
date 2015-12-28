@@ -1,12 +1,12 @@
 Package: com.jassaljeevan.fallout4slider
-Version: 1.2-9
+Version: 1.2-9a
 Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
-Filename: ./debs/com.jassaljeevan.fallout4slider_1.2-9_iphoneos-arm.deb
-Size: 52548
-MD5sum: 6d678726b1e4401f4671927406709573
-SHA1: b4a572f82d08e83349c36a70caef16b5016a27a8
-SHA256: 8a74685cce48f849ce66994147e9e12df9960bc7b9b1a656264ef6f1021d8070
+Filename: ./debs/com.jassaljeevan.fallout4slider_1.2-9a_iphoneos-arm.deb
+Size: 52556
+MD5sum: f262d5308dc6b9e855bc55f3c8443bc2
+SHA1: 7b36cd18884187a62baed1f948ccc998f0c1649f
+SHA256: 5e39edc7e6afd8cf3fac68e659fb91049e19c767e528fbb5d54429254b57b0ad
 Section: Sliders
 Description: Lock screen slider of the Fallout 4 game
  <p>Works with both Anemone and WinterBoard!</p>
@@ -14,7 +14,7 @@ Description: Lock screen slider of the Fallout 4 game
  <p>This is a lock screen slider of the Fallout 4 video game. This package
  includes a slider of the game logo as well as a slider of the Fallout
  Boy. See the screenshots for more info.</p>
- <p>You can email me at jassaljeevan@gmail.com for requests and support. You can send me requests for a donation of $2.00. You can donate using this <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HWSTZZVY42GMU">PayPal link</a>. Thank you to all those who support me by donating. Don't forget to follow me on Twitter <a href="https://twitter.com/JassalJeevan">@JassalJeevan</a></p>
+ <p>You can email me at jassaljeevan@gmail.com for requests and support. You can send me requests for a donation of $2.00. You can donate using this <a href="cydia://https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HWSTZZVY42GMU">PayPal link</a>. Thank you to all those who support me by donating. Don't forget to follow me on Twitter <a href="https://twitter.com/JassalJeevan">@JassalJeevan</a></p>
  <p>For those of you who would like to receive your completed requests within 24 hours, you can donate another $1 and get your request emailed to you with instructions on how to properly install. Please specify in the email if you would like to receive your request early.</p>
 Author: JassalJeevan <jassaljeevan@gmail.com>
 Name: Fallout 4 Slider
@@ -25,9 +25,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.jassaljeevaniconpack_0.0.1_iphoneos-arm.deb
 Size: 36770
-MD5sum: bb4e0dec64f4ef704f8941c18b94ae27
-SHA1: 44649909713d619a2fc03ac6fe95ac6b649da756
-SHA256: d91dac4137236738a4c548acc85dbb0e3878807b525f81ccf98d813f26b36c6c
+MD5sum: d115c5908674be59c3ef0ff95d5fb5fc
+SHA1: 340fc3bce076e786d97e3c02cfb3c74ad5ee4923
+SHA256: 144dd1a00db672fd092a31fc789bfaf50eb1acb053bbf3e6603a6cd3232551f5
 Section: Repo
 Description: Repo Icons for the JassalJeevan Repo
  Install this icon pack in order to see the package icons for the JassalJeevan Repo instead of the ungly grey question mark icon.
