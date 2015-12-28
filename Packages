@@ -1,12 +1,12 @@
 Package: com.jassaljeevan.fallout4slider
-Version: 1.2-10
+Version: 1.2-11
 Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
-Filename: ./debs/com.jassaljeevan.fallout4slider_1.2-10_iphoneos-arm.deb
-Size: 52724
-MD5sum: 1008d56584f9268f28ebc3c74dd16235
-SHA1: 6ff5c50e26bd8c911b733630017f5471deda457f
-SHA256: 4189939a0688e3154bc9600cbb9c90f12f772988465cdc0d50daede4db20778d
+Filename: ./debs/com.jassaljeevan.fallout4slider_1.2-11_iphoneos-arm.deb
+Size: 52734
+MD5sum: 69fb6f23d46dc8eaf0e9e3a02f0ac72e
+SHA1: 4e1d65588a11488d0430b0f000c420e0bce62087
+SHA256: 8796a60368fda54ac7ea5619222902627789273e30073ee4453bf3b3a3685100
 Section: Sliders
 Description: Lock screen slider of the Fallout 4 game
  <p>Works with both Anemone and WinterBoard!</p>
@@ -14,7 +14,7 @@ Description: Lock screen slider of the Fallout 4 game
  <p>This is a lock screen slider of the Fallout 4 video game. This package
  includes a slider of the game logo as well as a slider of the Fallout
  Boy. See the screenshots for more info.</p>
- <p>You can email me at jassaljeevan@gmail.com for requests and support. You can send me requests for a donation of $2.00. You can donate using the PayPal button below. Thank you to all those who support me by donating. Don't forget to follow me on Twitter <a href="https://twitter.com/JassalJeevan">@JassalJeevan</a></p>
+ <p>You can email me at jassaljeevan@gmail.com for requests and support. You can send me requests for a donation of $2.00. You can donate using the <a href="#">PayPal</a> button below. Thank you to all those who support me by donating. Don't forget to follow me on Twitter <a href="https://twitter.com/JassalJeevan">@JassalJeevan</a></p>
  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
  <input type="hidden" name="cmd" value="_s-xclick">
  <input type="hidden" name="hosted_button_id" value="HWSTZZVY42GMU">
@@ -31,9 +31,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.jassaljeevaniconpack_0.0.1_iphoneos-arm.deb
 Size: 36770
-MD5sum: 6844666f5401fef6692804970b7e7453
-SHA1: d4e5d43bc361baac8648637cfe022aa8206a17bd
-SHA256: 40233809fdded27e747bbd0e0f34d1b9d0d0619cd1b2504707bae7c3939d43d1
+MD5sum: d924b6e2670eb3bf51df96ed0d0ccfe6
+SHA1: 0e47f89108d0fd4198b1ca7a6bedb0cc54436f6e
+SHA256: cdbd2599a65649fc670a6717c9b3449c5caae9734cfd26c4051a7b8a9fbd3fcd
 Section: Repo
 Description: Repo Icons for the JassalJeevan Repo
  Install this icon pack in order to see the package icons for the JassalJeevan Repo instead of the ungly grey question mark icon.
