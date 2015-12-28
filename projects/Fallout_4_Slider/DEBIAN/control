@@ -1,6 +1,6 @@
 Package: com.jassaljeevan.fallout4slider
 Name: Fallout 4 Slider
-Version: 1.2-9b
+Version: 1.2-10
 Architecture:iphoneos-arm
 Description: Lock screen slider of the Fallout 4 game
  <p>Works with both Anemone and WinterBoard!</p>
@@ -8,13 +8,13 @@ Description: Lock screen slider of the Fallout 4 game
  <p>This is a lock screen slider of the Fallout 4 video game. This package
  includes a slider of the game logo as well as a slider of the Fallout
  Boy. See the screenshots for more info.</p>
- <p>You can email me at jassaljeevan@gmail.com for requests and support. You can send me requests for a donation of $2.00. You can donate using this PayPal link. Thank you to all those who support me by donating. Don't forget to follow me on Twitter <a href="https://twitter.com/JassalJeevan">@JassalJeevan</a></p>
- <p><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+ <p>You can email me at jassaljeevan@gmail.com for requests and support. You can send me requests for a donation of $2.00. You can donate using the PayPal button below. Thank you to all those who support me by donating. Don't forget to follow me on Twitter <a href="https://twitter.com/JassalJeevan">@JassalJeevan</a></p>
+ <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
  <input type="hidden" name="cmd" value="_s-xclick">
  <input type="hidden" name="hosted_button_id" value="HWSTZZVY42GMU">
  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
  <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
- </form></p>
+ </form>
  <p>For those of you who would like to receive your completed requests within 24 hours, you can donate another $1 and get your request emailed to you with instructions on how to properly install. Please specify in the email if you would like to receive your request early.</p>
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Author: JassalJeevan <jassaljeevan@gmail.com>
