@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.fallout4slider_1.2-12a_iphoneos-arm.deb
 Size: 52566
-MD5sum: 3a8f59a90d808b959c1a4ecefc2a8e72
-SHA1: 7eac90a3acc0bddd0a10244dca342fc57609af7a
-SHA256: db6aea87f036e031babe70e3327c0b63d4870ed85db860b89b69e8a94e1b9b98
+MD5sum: 0005b2812addc02254791c3c8dfd8f3c
+SHA1: 2df0b8163bf3fcc0d5b5cf28fcebf1dc8df13fb0
+SHA256: 65a6899e527bb83edae02f43af5ad54f08e209504bcab3ab94983f11c79a28f6
 Section: Sliders
 Description: Lock screen slider of the Fallout 4 game
  <p>Works with both Anemone and WinterBoard!</p>
@@ -19,18 +19,57 @@ Description: Lock screen slider of the Fallout 4 game
 Author: JassalJeevan <jassaljeevan@gmail.com>
 Name: Fallout 4 Slider
 
+Package: com.jassaljeevan.germany4starslider
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: JassalJeevan <jassaljeevan@gmail.com>
+Filename: ./debs/com.jassaljeevan.germany4starslider_1.1_iphoneos-arm.deb
+Size: 213610
+MD5sum: b64addc0b8b129af6cd70fb1f521e0bd
+SHA1: 469d6b050dd1da0459fb8ce9f1812f3cb0ee2479
+SHA256: 937f08e8c09fa0ef5473c2266b176e9f7f4386effab239881c2371a381b581fc
+Section: Sliders
+Description: Lock screen slider of the Germany international crest
+ <p>Works with both Anemone and WinterBoard!</p>
+ <p>Compatible with all devices running iOS 7 - 9+</p>
+ <p>This is a lock screen slider of the German team's crest, but with 4 stars on top instead of 3. See the screenshots for more info. This package was requested by Claas Reinecke (@Claas91).</p>
+ <p><a href="#"></a>You can email me at <a href="mailto:jassaljeevan@gmail.com">jassaljeevan@gmail.com</a> for requests and support. You can send me requests for a donation of $2.00. You can donate using this <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HWSTZZVY42GMU">PayPal link</a>. Thank you to all those who support me by donating. Don't forget to follow me on Twitter <a href="https://twitter.com/JassalJeevan">@JassalJeevan</a></p>
+ <p>For those of you who would like to receive your completed requests within 24 hours, you can donate another $1 and get your request emailed to you with instructions on how to properly install. Please specify in the email if you would like to receive your request early.</p>
+Author: JassalJeevan <jassaljeevan@gmail.com>
+Name: Germany 4-Star Slider
+
 Package: com.jassaljeevan.jassaljeevaniconpack
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.jassaljeevaniconpack_0.0.1_iphoneos-arm.deb
 Size: 36770
-MD5sum: 88115314a34f44f5029d5b0a44689aa1
-SHA1: dfd040b74d12a6b9f1b07bd4a93875e2fa554058
-SHA256: a416e0b73e40288859bcbb3322542df6c0b4b3a2f34cd14886b43fea3579a61a
+MD5sum: cf4aea3789601083c19db10407284828
+SHA1: 919fcb6ea27903f99ed8f1bd86d1dcc8e66cf55c
+SHA256: 73d9c3cd296eab338c0e92ce64c925dd8215088f90df9f72009f81a7f2fe2583
 Section: Repo
 Description: Repo Icons for the JassalJeevan Repo
  Install this icon pack in order to see the package icons for the JassalJeevan Repo instead of the ungly grey question mark icon.
 Author: JassalJeevan <jassaljeevan@gmail.com>
 Name: JassalJeevan Icon Pack
+
+Package: com.jassaljeevan.thedivisionslider
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JassalJeevan <jassaljeevan@gmail.com>
+Filename: ./debs/com.jassaljeevan.thedivisionslider_1.0_iphoneos-arm.deb
+Size: 25048
+MD5sum: 8ba247aac9be52c3c1b0eaa1cb6b8f0c
+SHA1: 61401a0996500792c2821261a9910faa9b3008bc
+SHA256: 3690b345c92b8e25426f29415f4dac9271ab5d27bdada35eb92a6b1240091d9c
+Section: Sliders
+Description: Lock screen slider of The Division game logo
+ <p>Works with both Anemone and WinterBoard!</p>
+ <p>Compatible with all devices running iOS 7 - 9+</p>
+ <p>This is a lock screen slider of Tom Clancy's the Division video game
+ logo. See the screenshots for more info..</p>
+ <p><a href="#"></a>You can email me at <a href="mailto:jassaljeevan@gmail.com">jassaljeevan@gmail.com</a> for requests and support. You can send me requests for a donation of $2.00. You can donate using this <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HWSTZZVY42GMU">PayPal link</a>. Thank you to all those who support me by donating. Don't forget to follow me on Twitter <a href="https://twitter.com/JassalJeevan">@JassalJeevan</a></p>
+ <p>For those of you who would like to receive your completed requests within 24 hours, you can donate another $1 and get your request emailed to you with instructions on how to properly install. Please specify in the email if you would like to receive your request early.</p>
+Author: JassalJeevan <jassaljeevan@gmail.com>
+Name: The Division Slider
 
