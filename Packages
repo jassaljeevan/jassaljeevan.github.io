@@ -3,11 +3,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.assassinscreedvolumehud_1.0_iphoneos-arm.deb
-Size: 25118
-MD5sum: 53adb0ff604f817ed8dd1efcfbdc6908
-SHA1: fbff2a484f07161701ed339bdfea09800953165c
-SHA256: e832854b17f2b224a5b3dfba5c57fa262820b580c74ad9c66998300cb2d3073b
-Section: Sliders
+Size: 25116
+MD5sum: 00a3ab85b10b8ea82d576aa976214466
+SHA1: 8dd0e9e23e4159bdfc4234df38c3b74aa953b455
+SHA256: 7101e9a139a727a2e8c7092a00dae168766091cb3b0a654beee06272f5e2dd3e
+Section: Volume HUDs
 Description: Volume indicator of Assassins Creed logo
  <p>Works with both Anemone and WinterBoard!</p>
  <p>Compatible with all devices running iOS 7 - 9+</p>
@@ -22,11 +22,11 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.dannyphantombootlogo_1.0_iphoneos-arm.deb
-Size: 143910
-MD5sum: 6a1c4f083c7540710774407668ba3526
-SHA1: 28f59792dd7401d2cbb9e6c335629a51976b2794
-SHA256: 4c9ab4633473a6627fd6c5595c5b5c781a329bfd9f3c7a20a1c41deccb63a3b1
-Section: Sliders
+Size: 143904
+MD5sum: e57b88a6c163c8cb27de6277845aa0a7
+SHA1: 4d6e8aa4b9540320d1bdc3ff6c2c794f3d141fb6
+SHA256: a8810aaf18f34c5eac67552f134fdb0019d8fbc242936225e4aa4a7b00f3a850
+Section: Boot Logos
 Description: Boot Logo of the Danny Phantom cartoon
  <p>Works with both Anemone and WinterBoard!</p>
  <p>Compatible with all devices running iOS 7 - 9+</p>
@@ -42,9 +42,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.fallout4slider_1.2-12a_iphoneos-arm.deb
 Size: 52566
-MD5sum: c3f8b83e16a42983b3a3cb2816b351fe
-SHA1: 66bdbe663bd025c2be9adec00e0b4557dfdff982
-SHA256: 21eece87742f2019431c5ab127b16aa894c906751d8f5c240e4a8d20b9d26b14
+MD5sum: 1f6eaeed53a1a3f34623404d98e262ba
+SHA1: 6b15bb69c2b7f18673e60b692aa843cfb0c71b00
+SHA256: 6758592d1bacf7d456b643b0cf6fad490d486fdd2920d3044746f000652368a1
 Section: Sliders
 Description: Lock screen slider of the Fallout 4 game
  <p>Works with both Anemone and WinterBoard!</p>
@@ -63,9 +63,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.germany4starslider_1.1_iphoneos-arm.deb
 Size: 213610
-MD5sum: 0fe2c6294b80a6afe1fe299c3df694f5
-SHA1: 82a1f6b41a25b6b2a664c207837029dc7b9136ad
-SHA256: 43678f3337085fe3b2178b2b0cff64a51db620609305969d61bfa1bcca751028
+MD5sum: 90b40d30e65d094f8125dd1d0bdb6f01
+SHA1: 2645946d774d90194a5cea3bd38cbf3af0ceb492
+SHA256: aaec57427d5cf400bf0f30bdb6508a72085be0c440bd42c59975737c4f6cf6ad
 Section: Sliders
 Description: Lock screen slider of the Germany international crest
  <p>Works with both Anemone and WinterBoard!</p>
@@ -82,9 +82,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.jassaljeevaniconpack_0.0.1_iphoneos-arm.deb
 Size: 36770
-MD5sum: eb2bd9a7628c166bdaf7defde5aef28c
-SHA1: 72fd4acf84d9c25c45f280e34abda5f1ef47eff2
-SHA256: 5f765c22dc8e92726f4db2d1262008a6b1381c5b323d04841caa5c4a342eef7c
+MD5sum: 98f335f7c73ef3a155c2804583bc5398
+SHA1: 389575b43f0ee67cb5a87bf56f19d811c0f81d29
+SHA256: 94c7d4982f81ea15356118520a1e425aa3541052fa58b0aa208a9520d86c04ba
 Section: Repo
 Description: Repo Icons for the JassalJeevan Repo
  Install this icon pack in order to see the package icons for the JassalJeevan Repo instead of the ungly grey question mark icon.
@@ -97,9 +97,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.thedivisionslider_1.0_iphoneos-arm.deb
 Size: 25048
-MD5sum: 5e945e88b6bd55932d9a39c6e18b1745
-SHA1: f2d25ab9921240f0ec3d3c2f3d991ca02caebd6d
-SHA256: 9f98d63fdc5f6d9420e47a56025968fe8bdafc52a14c12f28032e77b85360ddc
+MD5sum: 3a5a4c266c621dcc323f9b83b064ab03
+SHA1: a889e8e5b4ab5060cce42ad7fc0ce609705080b8
+SHA256: 6173f6eb2ecffd8533e388d0aee476ec7bce04a85a4bc652520116fa7fb78585
 Section: Sliders
 Description: Lock screen slider of The Division game logo
  <p>Works with both Anemone and WinterBoard!</p>
