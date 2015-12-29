@@ -7,9 +7,6 @@
 			<miniOS>7.0</miniOS>
 		</firmware>
 	</compatibility>
-	<dependencies>
-		<package>mobilesubstrate</package>
-	</dependencies>
 	<descriptionlist>
 		<description>This is an package will full depictions.</description>
 		<description>It has more description lines.</description>
@@ -36,7 +33,7 @@
 	</changelog>
 	<links>
 		<link>
-			<name>/r/jailbreak</name>
+			<name>PayPal Donation</name>
 			<url>https://www.reddit.com/r/jailbreak</url>
 		</link>
 	</links>
