@@ -2,7 +2,7 @@
 html {
 	overflow-y: scroll;
 	background-color:#EDEDED;
-	max-width: 320px;
+	max-width: 100%;
 }
 
 #headerImage {
