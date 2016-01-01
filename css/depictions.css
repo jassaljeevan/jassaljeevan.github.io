@@ -1,0 +1,79 @@
+/* CSS Document */
+html {
+	overflow-y: scroll;
+	max-width: 100%;
+}
+
+body {
+	background-color: #EDEDED;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif
+}
+
+div {
+	max-width: 100%;
+	background-color:#FFFFFF;
+	border-bottom-style:solid;
+	border-bottom-color:#CECECE;
+	border-bottom-width:1px;
+	border-top-style:solid;
+	border-top-color:#CECECE;
+	border-top-width:1px;
+	margin-top: 15px;
+	margin-bottom:5px;
+}
+
+h5 {
+	color:#5E5E5E;
+	margin: 15px;
+	font-weight: 600;
+}
+
+p {
+	color:#969696;
+	margin: 15px;
+	font-size: 90%;
+}
+
+#paypal-link {
+	margin-bottom:0px;
+	padding-bottom:0px;
+}
+
+#paypal {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left:15px;
+}
+
+#twitter {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left:15px;
+}
+
+.links {
+	margin-top:0px;
+	margin-bottom:0px;
+	border-top:none;
+	text-decoration:none;
+}
+
+label {
+	font-weight: 500;
+	margin-top:2px;
+	margin-left:5px;
+}
+
+#email {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 15px;
+}
+
+.pull-right {
+	margin-right: 15px;
+}
+
+a:link {
+	text-decoration:none;
+}
