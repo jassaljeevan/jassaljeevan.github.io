@@ -2,14 +2,15 @@
 html {
 	overflow-y: scroll;
 	background-color:#EDEDED;
+	max-width: 320px;
 }
 
 #headerImage {
 	max-width:100%;
 	height:auto;
-	border-bottom-style:solid;
+	/*border-bottom-style:solid;
 	border-bottom-width:5px;
-	border-bottom-color:#EDEDED;
+	border-bottom-color:#EDEDED; */
 }
 
 #addRepo {
@@ -25,6 +26,20 @@ html {
 	border-bottom-style:solid;
 	border-bottom-width:25px;
 	border-bottom-color:#EDEDED;
+	height:80px;
+}
+
+a {
+	text-decoration:none;
+}
+
+a:hover {
+	background-color:#DEDEDE;
+}
+
+#addRepoDiv {
+	margin-top:5px;
+	margin-bottom:5px;
 }
 
 #addRepoLabel {
@@ -62,6 +77,8 @@ html {
 #twitterDiv {
 	float:none;
 	vertical-align:middle;
+	margin-top:5px;
+	margin-bottom:5px;
 }
 
 #chevron {
