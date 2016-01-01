@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.assassinscreedvolumehud_1.0_iphoneos-arm.deb
 Size: 25116
-MD5sum: 8be48cb27d765ad41e0b7078e9966f3e
-SHA1: 85dadfb0e91a9e3b9e77fad5cca6049730acec39
-SHA256: 7d21a389f7c1137b389a7ef1e0b97930bbce157cce1e1b8cc2f7fab78cdc46bc
+MD5sum: 29b4f095e9a4b958a76e28fe7165de7c
+SHA1: 862e02ca0ff1df3b21f8aa6f1d9eb58cbfffb683
+SHA256: 1813d37c11bd1d20b895b5049883348b46afd60953cceb2e9f189ac41abc6a41
 Section: Volume HUDs
 Description: Volume indicator of Assassins Creed logo
  <p>Works with both Anemone and WinterBoard!</p>
@@ -23,9 +23,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.dannyphantombootlogo_1.0_iphoneos-arm.deb
 Size: 285488
-MD5sum: 8664dc1bac3baafb02c49e7270e8e860
-SHA1: 567fa15c070a39def170c8b05d14cbceaee19cc1
-SHA256: 8b43ddd57d733bf01e3419dae9edbba21088f28eb170081c931dca8b1f8e4042
+MD5sum: e9206cf37176e114fa13deaefef9deee
+SHA1: 6a956c5330158fd9c7f13074c1f5b468335b74de
+SHA256: a5a98c098afee87a30f7e050123b4dd62a5dea8335b862f156941a59413c7b7b
 Section: Boot Logos
 Description: Boot Logo of the Danny Phantom cartoon
  <p>Works with both Anemone and WinterBoard!</p>
@@ -42,9 +42,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.fallout4slider_1.2-12a_iphoneos-arm.deb
 Size: 52598
-MD5sum: 62fd91b2131560c779d76a59fb5c80e8
-SHA1: 6a32b1933e0161c0f732adfdac5549096fe3ee47
-SHA256: ed67635e6b12971cf862da88005e63e2d3002f8927c27e5ce0f400b618bcb0c4
+MD5sum: 9698d8f0c34f3a33d237ecf4ffc9bfd5
+SHA1: 61438ef26d9f190768dc37a02980d6b97e7fd7d3
+SHA256: 114becea3bd72b9381262411d28652aa89337bdbbd3b0807851fe41f9c25da20
 Section: Sliders
 Description: Lock screen slider of the Fallout 4 game
  <p>Works with both Anemone and WinterBoard!</p>
@@ -64,9 +64,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.germany4starslider_1.1_iphoneos-arm.deb
 Size: 213610
-MD5sum: 71b4d19ca5f937ace2b9e89b6a596454
-SHA1: 8caaa43535d9a8a9338faca3fe6c614d5e04b80c
-SHA256: a94a4748f30a8c7f4d1e5c54fab399c2a302bf514267110f4145fed572fc61ea
+MD5sum: ac47e2dabb12dd746ea19f8dc072796b
+SHA1: f4b0d7426bbd848ce040f8a658cc0dd94100e31b
+SHA256: 30bd820d6586c9902e8680fa2a36b3cc1291db17f577d0cc7918c9589a4b13e5
 Section: Sliders
 Description: Lock screen slider of the Germany international crest
  <p>Works with both Anemone and WinterBoard!</p>
@@ -83,9 +83,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.jassaljeevaniconpack_0.0.1_iphoneos-arm.deb
 Size: 36770
-MD5sum: 612570daeb2071ea269e540fae798d3e
-SHA1: c1d50c18265e9da4bc9fb2b595afeae7baf7b4f3
-SHA256: c4012e7826456ad5024a6318f8d2b38c29dadbf616b6ad159cb7c055e804d5bc
+MD5sum: d8d5d17315e0076f0a9c77c9597472e8
+SHA1: 35eeffc558e86c6810671df5efe26fbe43da4075
+SHA256: e828f49330836498a21c9690455be336ef6cc34bd9db088475b6a80f4980a66a
 Section: Repo
 Description: Repo Icons for the JassalJeevan Repo
  Install this icon pack in order to see the package icons for the JassalJeevan Repo instead of the ungly grey question mark icon.
@@ -98,9 +98,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.thedivisionslider_1.0_iphoneos-arm.deb
 Size: 25048
-MD5sum: b2d7dc5095d5d98d463bf18ff8bc2383
-SHA1: be9543ab71cc380f6ee21695ad580d01beafbf85
-SHA256: 1a47208d64b8e0569dc1544cc888c0ded7dabaf2e1c1c86f6522839c7c7c0ab1
+MD5sum: 2d4ca075a08afa7c7a8325a5bb89fb68
+SHA1: 25e4c1fa8a1034a8b02f29a9c0079e08f1e3c83f
+SHA256: b55f5e745109234bd3d3e337c1762a93d255c5d37a8538ce514437b529f3e18b
 Section: Sliders
 Description: Lock screen slider of The Division game logo
  <p>Works with both Anemone and WinterBoard!</p>
