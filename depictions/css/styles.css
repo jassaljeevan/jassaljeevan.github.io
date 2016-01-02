@@ -13,23 +13,24 @@ div {
 	max-width: 100%;
 	background-color:#FFFFFF;
 	border-bottom-style:solid;
-	border-bottom-color:#CECECE;
+	border-bottom-color:#D2D2D2;
 	border-bottom-width:1px;
 	border-top-style:solid;
-	border-top-color:#CECECE;
+	border-top-color:#D2D2D2;
 	border-top-width:1px;
 	margin-top: 15px;
 	margin-bottom:5px;
 }
 
-h5 {
-	color:#5E5E5E;
+#title {
+	color:#414141;
 	margin: 15px;
-	font-weight: 600;
+	font-weight: 400;
+	font-size: 125%;
 }
 
 p {
-	color:#969696;
+	color:#5E5E5E;
 	margin: 15px;
 	font-size: 90%;
 }
@@ -40,14 +41,14 @@ p {
 }
 
 #paypal {
-	margin-top: 5px;
-	margin-bottom: 5px;
+	margin-top: 10px;
+	margin-bottom: 10px;
 	margin-left:15px;
 }
 
 #twitter {
-	margin-top: 5px;
-	margin-bottom: 5px;
+	margin-top: 10px;
+	margin-bottom: 10px;
 	margin-left:15px;
 }
 
@@ -59,14 +60,16 @@ p {
 }
 
 label {
-	font-weight: 500;
+	font-weight: 400;
 	margin-top:2px;
 	margin-left:5px;
+	color:#5E5E5E;
+	font-size:115%;
 }
 
 #email {
-	margin-top: 5px;
-	margin-bottom: 5px;
+	margin-top: 10px;
+	margin-bottom: 10px;
 	margin-left: 15px;
 }
 
@@ -76,4 +79,8 @@ label {
 
 a:link {
 	text-decoration:none;
+}
+
+a:hover {
+	color:#D2D2D2;
 }
