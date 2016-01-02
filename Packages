@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.assassinscreedvolumehud_1.0_iphoneos-arm.deb
 Size: 25116
-MD5sum: 3097e294a442c3ffd49158ea368ee29e
-SHA1: 8a9dd1d20d3f8bd74f630e49f933fe773d81e09a
-SHA256: a27e106b0fa5aafde844cfb30afb1f7a8e2ba99749a40dd7a5f99352156897cd
+MD5sum: f2a0f9dbc76b6eab29a0afba4180cab6
+SHA1: e7976d6330fa538c441f37fcd31fa90570e50704
+SHA256: 7e86d5f26793639890ba6f2ebb26259b889da770a73179eb2ff6ceb5a14d9d11
 Section: Volume HUDs
 Description: Volume indicator of Assassins Creed logo
  <p>Works with both Anemone and WinterBoard!</p>
@@ -23,9 +23,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.dannyphantombootlogo_1.0_iphoneos-arm.deb
 Size: 285488
-MD5sum: d6e1df763cd43a0416e297746fbb3891
-SHA1: d80fc93fbb7e8f09271409e8f1d50ec055c80c70
-SHA256: 2c233939254b16a928296cc55ea4282998d0fbe6ec7842f8f8a2bc4d5b287e57
+MD5sum: c4f78b321ab6fff1e932e32917610fd1
+SHA1: 8e0a896f294286f7c20fa8e246808602133b67b9
+SHA256: 5e1da2e20ab94f32d1721ecdd8d539148ba901eac66bad1fa97e31ca09d2f0bd
 Section: Boot Logos
 Description: Boot Logo of the Danny Phantom cartoon
  <p>Works with both Anemone and WinterBoard!</p>
@@ -37,14 +37,14 @@ Author: JassalJeevan <jassaljeevan@gmail.com>
 Name: Danny Phantom Boot Logo
 
 Package: com.jassaljeevan.fallout4slider
-Version: 1.2-12a
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
-Filename: ./debs/com.jassaljeevan.fallout4slider_1.2-12a_iphoneos-arm.deb
-Size: 52598
-MD5sum: 7670ef6bf4fe8f0d58ecdb798c228f21
-SHA1: 6dbe68a110a38b3901566954f1862bccedd62793
-SHA256: 16c51eabf04b6821b8a6c2937e366c553a49633811f365e5480ae3ee2fb68257
+Filename: ./debs/com.jassaljeevan.fallout4slider_1.1_iphoneos-arm.deb
+Size: 52594
+MD5sum: dbd0235fe9d6ecf66f598ac1d0c819ba
+SHA1: 01e943e603f17cae31d264e20155eb84ddeb881e
+SHA256: 0b85a1793c61cd13843ff9a2923f5747a8942f71ebe2f017a22d1558b7aad1ea
 Section: Sliders
 Description: Lock screen slider of the Fallout 4 game
  <p>Works with both Anemone and WinterBoard!</p>
@@ -64,9 +64,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.germany4starslider_1.1_iphoneos-arm.deb
 Size: 213610
-MD5sum: 7237c4b38a36ed9844cf65c4035e1e32
-SHA1: f585ec4922e317ed3cb6f1460a516a54a3b937ed
-SHA256: 8d7a56fde86cba2cfc8d30ebb4cc18316369e2f15e538e34b15b5b76d937b409
+MD5sum: e7c656dad0eeaa2783c68f39d360d460
+SHA1: fd08df6559d55ed7993dec075ca95051efaba2cc
+SHA256: d9c8ae19d7816aa1fce318c9cc5b107876f82f3e81028af05cceed58084a0cfc
 Section: Sliders
 Description: Lock screen slider of the Germany international crest
  <p>Works with both Anemone and WinterBoard!</p>
@@ -83,9 +83,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.jassaljeevaniconpack_0.0.1_iphoneos-arm.deb
 Size: 36770
-MD5sum: 0185aa3570afdc5a07e8b0609ce30997
-SHA1: 55f0b8f37fcbb154ef7fe06555623664fb906ac7
-SHA256: 9602f7b9aefff6283fd08244508c172e1788ee39fbfdf599cad04f6ff485b4a7
+MD5sum: b3d06f6d20640428a06b3ee1beb96dbe
+SHA1: 2a536d7d8f6ad87df15da8c0b881e94cdc098f03
+SHA256: 5bfce35f43303d0462479e51a6aa4c0d9ab4a294e4b4cb1d87529bca02d0af81
 Section: Repo
 Description: Repo Icons for the JassalJeevan Repo
  Install this icon pack in order to see the package icons for the JassalJeevan Repo instead of the ungly grey question mark icon.
@@ -98,9 +98,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.thedivisionslider_1.0_iphoneos-arm.deb
 Size: 25048
-MD5sum: d8fdb4993343b60b77badeb6b5946af8
-SHA1: edbdc70048b1006915f91554d20a3da71fff9f25
-SHA256: cd5f52c9f7cca22ad3599efdcfe3df08addcd3b1b7ca73d22b9b9612db126726
+MD5sum: 9f0b5a23e84ba8e4673a80511cc5b037
+SHA1: 43e05c659a31f8f9f03a1a93c07e13b48a867d58
+SHA256: e145bce0c1695abce46d1e424f7850232f1dc81097ab339fb31c374999010f7e
 Section: Sliders
 Description: Lock screen slider of The Division game logo
  <p>Works with both Anemone and WinterBoard!</p>
