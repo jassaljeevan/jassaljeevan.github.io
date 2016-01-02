@@ -23,9 +23,10 @@ div {
 }
 
 #title {
-	color:#414141;
+	color:black;
 	margin: 15px;
-	font-weight: 400;
+	margin-bottom: -6px;
+	font-weight: 300;
 	font-size: 125%;
 }
 
@@ -33,6 +34,11 @@ p {
 	color:#5E5E5E;
 	margin: 15px;
 	font-size: 90%;
+	font-weight:300;
+}
+
+#description img {
+	max-width:100%;
 }
 
 #paypal-link {
@@ -41,14 +47,14 @@ p {
 }
 
 #paypal {
-	margin-top: 10px;
-	margin-bottom: 10px;
+	margin-top: 7px;
+	margin-bottom: 7px;
 	margin-left:15px;
 }
 
 #twitter {
-	margin-top: 10px;
-	margin-bottom: 10px;
+	margin-top: 7px;
+	margin-bottom: 7px;
 	margin-left:15px;
 }
 
@@ -63,13 +69,13 @@ label {
 	font-weight: 400;
 	margin-top:2px;
 	margin-left:5px;
-	color:#5E5E5E;
+	color:black;
 	font-size:115%;
 }
 
 #email {
-	margin-top: 10px;
-	margin-bottom: 10px;
+	margin-top: 7px;
+	margin-bottom: 7px;
 	margin-left: 15px;
 }
 
