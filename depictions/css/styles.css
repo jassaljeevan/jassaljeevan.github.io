@@ -20,6 +20,8 @@ div {
 	border-top-width:1px;
 	margin-top: 15px;
 	margin-bottom:5px;
+	margin-left:auto;
+	margin-right:auto;
 }
 
 #title {
@@ -28,6 +30,9 @@ div {
 	margin-bottom: -6px;
 	font-weight: 300;
 	font-size: 125%;
+	border-bottom-style:solid;
+	border-bottom-color:#E3E3E3;
+	border-bottom-width:1px;
 }
 
 p {
@@ -39,6 +44,8 @@ p {
 
 #description img {
 	max-width:100%;
+	margin-left:auto;
+	margin-right:auto;
 }
 
 #paypal-link {
