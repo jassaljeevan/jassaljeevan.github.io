@@ -24,7 +24,7 @@ div {
 	margin-right:auto;
 }
 
-#title {
+.title {
 	color:black;
 	margin: 15px;
 	margin-bottom: -6px;
@@ -53,13 +53,7 @@ p {
 	padding-bottom:0px;
 }
 
-#paypal {
-	margin-top: 7px;
-	margin-bottom: 7px;
-	margin-left:15px;
-}
-
-#twitter {
+.links-align {
 	margin-top: 7px;
 	margin-bottom: 7px;
 	margin-left:15px;
@@ -80,12 +74,6 @@ label {
 	font-size:115%;
 }
 
-#email {
-	margin-top: 7px;
-	margin-bottom: 7px;
-	margin-left: 15px;
-}
-
 .pull-right {
 	margin-right: 15px;
 }
@@ -96,4 +84,18 @@ a:link {
 
 a:hover {
 	color:#D2D2D2;
+}
+
+#screenshots-link {
+	border-top-style:solid;
+	border-top-color:#D2D2D2;
+	border-top-width:1px;
+}
+#description {
+	margin-bottom:0px;
+}
+
+.images {
+	max-width: 414px;
+	width: 100%;
 }
