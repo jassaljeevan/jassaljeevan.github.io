@@ -5,8 +5,8 @@ html {
 }
 
 body {
-	background-color: #EDEDED;
-	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif
+	background-color: #F9F9F9;
+	font: SFUIText-Light;
 }
 
 div {
@@ -25,6 +25,7 @@ div {
 }
 
 .title {
+	font: SFUIText-Medium;
 	color:black;
 	margin: 15px;
 	margin-bottom: -6px;
@@ -98,4 +99,8 @@ a:hover {
 .images {
 	max-width: 414px;
 	width: 100%;
+}
+
+#github-link {
+	margin-bottom:25px;
 }
