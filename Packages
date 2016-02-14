@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.assassinscreedvolumehud_1.0-1_iphoneos-arm.deb
 Size: 25146
-MD5sum: 051a394896bff705ac6a9c9381532ff6
-SHA1: 34ef9452adc19ada82a55f1a8886298e57f65fd8
-SHA256: 11ff8cea57c570edb76fddde5c3f5e3616a377c1837eec202b3727c103503105
+MD5sum: da6369ee24029441009e4120610a1742
+SHA1: f758bd30bb7f313e4765412bb4ad4827ba51ba24
+SHA256: bcc0146fee8aff9b43a14e41dbebe86aee33b4927296d682227da8384ed6ad5e
 Section: Volume HUDs
 Description: Volume indicator of Assassins Creed logo
  <p>Works with both Anemone and WinterBoard!</p>
@@ -23,10 +23,10 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.dannyphantombootlogo_1.0_iphoneos-arm.deb
-Size: 285488
-MD5sum: 7f574c6739302882dbd424fa60469113
-SHA1: f6389fa7449f22dc9e577fe447ec2e1a0d2608d0
-SHA256: e29edca2ab3eb69c2c567090199b0821be9288c18e000c26095466e9670cd665
+Size: 285524
+MD5sum: c417039a670ba885ea89f7f6121ec98f
+SHA1: ae7a1f585d07086878b1137ebf7cacba8f611294
+SHA256: cb7a2cf790617370cd3bfd098c6aab5a4201f6481976cfac9a44eeb66903707b
 Section: Boot Logos
 Description: Boot Logo of the Danny Phantom cartoon
  <p>Works with both Anemone and WinterBoard!</p>
@@ -35,6 +35,7 @@ Description: Boot Logo of the Danny Phantom cartoon
  <p><a href="#"></a>You can email me at <a href="mailto:jassaljeevan@gmail.com">jassaljeevan@gmail.com</a> for requests and support. You can send me requests for a donation of $2.00. You can donate using this <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HWSTZZVY42GMU">PayPal link</a>. Thank you to all those who support me by donating. Don't forget to follow me on Twitter <a href="https://twitter.com/JassalJeevan">@JassalJeevan</a></p>
  <p>For those of you who would like to receive your completed requests within 24 hours, you can donate another $1 and get your request emailed to you with instructions on how to properly install. Please specify in the email if you would like to receive your request early.</p>
 Author: JassalJeevan <jassaljeevan@gmail.com>
+Depiction: https://jassaljeevan.github.io/depictions/com.jassaljeevan.dannyphantombootlogo/
 Name: Danny Phantom Boot Logo
 
 Package: com.jassaljeevan.fallout4slider
@@ -43,9 +44,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.fallout4slider_1.1_iphoneos-arm.deb
 Size: 52594
-MD5sum: 78ce065cb98383359d6becb7ef850f49
-SHA1: 7d917502aba67d94feecefa479c057a9fc712fd2
-SHA256: 0fb95ee76079b9a5acd72fbf971130ea037858f416c4bb15db5878415fd1ae39
+MD5sum: 0d8b3e56d7a0697069d74eeb7888097c
+SHA1: 208358367ca0b772eed1d135c12f355cbcde64b0
+SHA256: 0dc41e1e8364a560248c61b0c9c51a1f817c1aedef5d3d24556f39aa5fc91b0a
 Section: Sliders
 Description: Lock screen slider of the Fallout 4 game
  <p>Works with both Anemone and WinterBoard!</p>
@@ -65,9 +66,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.germany4starslider_1.1_iphoneos-arm.deb
 Size: 213640
-MD5sum: 7a0ac6d02fe6106dd86835133cb696b0
-SHA1: a0b4744e5939d6c4c3472878939103894f85a27a
-SHA256: 2f7254d722cf798a65b739d223fc4d899393249248733c398441730e19da57cf
+MD5sum: b89b4b81f0f27f335b22d77217b61830
+SHA1: e2f0eb568b985c9a253985ae1e1b0ec1c5f1ed4a
+SHA256: 5334befb8b18a68cae3884c474786454ee3c5fc24927f67903fc1eb772b28411
 Section: Sliders
 Description: Lock screen slider of the Germany international crest
  <p>Works with both Anemone and WinterBoard!</p>
@@ -85,9 +86,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.jassaljeevaniconpack_0.0.3_iphoneos-arm.deb
 Size: 204024
-MD5sum: e53ec2040e1b3d4a21a20efbdf99feb3
-SHA1: da163b090e5269363536424aacd8b559b71822b2
-SHA256: d97e301385df8d9926be8fc18da7022e5614f8a8a4705e888c42be0377a3623e
+MD5sum: 6aaf463cafe2cf489918ed0cf8895a66
+SHA1: b0cb45c7a314a0e24c868946bad06e1a3e37e018
+SHA256: 075eed09da96120adaf75b168df7dd3b33693280c594029a0e31fedd9a96a7a2
 Section: Repo
 Description: Repo Icons for the JassalJeevan Repo
  Install this icon pack in order to see the package icons for the JassalJeevan Repo instead of the ungly grey question mark icon.
@@ -95,22 +96,23 @@ Author: JassalJeevan <jassaljeevan@gmail.com>
 Name: JassalJeevan Icon Pack
 
 Package: com.jassaljeevan.thedivisionslider
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
-Filename: ./debs/com.jassaljeevan.thedivisionslider_1.0_iphoneos-arm.deb
-Size: 25048
-MD5sum: 8e144b677b55d1d50c2cfb0d0c5b7033
-SHA1: 975234c80b7c8b3804d1457e087ac265aedfa7d7
-SHA256: 6d8f1bf66ea71126a7840990e746c34f4dd7dfee00b4a961527fb5d3ad42ddc7
+Filename: ./debs/com.jassaljeevan.thedivisionslider_1.1_iphoneos-arm.deb
+Size: 25078
+MD5sum: e658f29c7e01da56c462343a5ee1481a
+SHA1: 2456927da94f44a5c79783d39896639101c6edee
+SHA256: c028050c131474a3393ae0edb5148a31998416129528addf68c15b66fdd32c7f
 Section: Sliders
 Description: Lock screen slider of The Division game logo
  <p>Works with both Anemone and WinterBoard!</p>
  <p>Compatible with all devices running iOS 7 - 9+</p>
  <p>This is a lock screen slider of Tom Clancy's the Division video game
- logo. See the screenshots for more info..</p>
+ logo. See the screenshots for more info.</p>
  <p><a href="#"></a>You can email me at <a href="mailto:jassaljeevan@gmail.com">jassaljeevan@gmail.com</a> for requests and support. You can send me requests for a donation of $2.00. You can donate using this <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HWSTZZVY42GMU">PayPal link</a>. Thank you to all those who support me by donating. Don't forget to follow me on Twitter <a href="https://twitter.com/JassalJeevan">@JassalJeevan</a></p>
  <p>For those of you who would like to receive your completed requests within 24 hours, you can donate another $1 and get your request emailed to you with instructions on how to properly install. Please specify in the email if you would like to receive your request early.</p>
 Author: JassalJeevan <jassaljeevan@gmail.com>
+Depiction: https://jassaljeevan.github.io/depictions/com.jassaljeevan.thedivisionslider/
 Name: The Division Slider
 
