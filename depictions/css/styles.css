@@ -13,10 +13,10 @@ div {
 	max-width: 100%;
 	background-color:#FFFFFF;
 	border-bottom-style:solid;
-	border-bottom-color:#D2D2D2;
+	border-bottom-color:#DBDBDB;
 	border-bottom-width:1px;
 	border-top-style:solid;
-	border-top-color:#D2D2D2;
+	border-top-color:#DBDBDB;
 	border-top-width:1px;
 	margin-top: 15px;
 	margin-bottom:5px;
@@ -29,7 +29,7 @@ div {
 	color:black;
 	margin: 15px;
 	margin-bottom: -6px;
-	font-weight: 500;
+	font-weight: 400;
 	font-size: 125%;
 	border-bottom-style:solid;
 	border-bottom-color:#E3E3E3;
@@ -106,5 +106,5 @@ a:hover {
 }
 
 span {
-	color:#68BDEE
+	color:#32B1E7;
 }
