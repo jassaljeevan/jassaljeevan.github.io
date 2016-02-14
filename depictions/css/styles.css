@@ -29,7 +29,7 @@ div {
 	color:black;
 	margin: 15px;
 	margin-bottom: -6px;
-	font-weight: 300;
+	font-weight: 500;
 	font-size: 125%;
 	border-bottom-style:solid;
 	border-bottom-color:#E3E3E3;
@@ -37,10 +37,10 @@ div {
 }
 
 p {
-	color:#5E5E5E;
+	color:#4C4C4C;
 	margin: 15px;
 	font-size: 90%;
-	font-weight:300;
+	font-weight:400;
 }
 
 #description img {
@@ -103,4 +103,8 @@ a:hover {
 
 #github-link {
 	margin-bottom:25px;
+}
+
+span {
+	color:#68BDEE
 }
