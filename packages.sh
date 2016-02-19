@@ -6,4 +6,5 @@ dpkg-deb -bZgzip projects/Germany_4-Star_Slider debs
 dpkg-deb -bZgzip projects/Assassins_Creed_Volume_HUD debs
 dpkg-deb -bZgzip projects/Danny_Phantom_Boot_Logo debs
 dpkg-deb -bZgzip project/_116_Clique_Boot_Logo debs
+dpkg-deb -bZgzip project/Christian_Fish_Boot_Logo debs
 # dpkg-deb -bZgzip projects/<project name> <output folder>
