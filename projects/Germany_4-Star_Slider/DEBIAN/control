@@ -1,6 +1,6 @@
 Package: com.jassaljeevan.germany4starslider
 Name: Germany 4-Star Slider
-Version: 1.1
+Version: 1.2
 Architecture:iphoneos-arm
 Description: Lock screen slider of the Germany international crest
  <p>Works with both Anemone and WinterBoard!</p>

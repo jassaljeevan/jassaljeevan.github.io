@@ -1,6 +1,6 @@
 Package: com.jassaljeevan.dannyphantombootlogo
 Name: Danny Phantom Boot Logo
-Version: 1.0
+Version: 1.2
 Architecture:iphoneos-arm
 Description: Boot Logo of the Danny Phantom cartoon
  <p>Works with both Anemone and WinterBoard!</p>
