@@ -1,6 +1,6 @@
-Package: com.jassaljeevan.jassaljeevaniconpack
-Name: JassalJeevan Icon Pack
-Version: 0.0.4
+Package: com.jassaljeevan.jassaljeevanrepoicons
+Name: JassalJeevan Repo Icons
+Version: 0.0.3
 Architecture: iphoneos-arm
 Description: Repo Icons for the JassalJeevan Repo
  Install this icon pack in order to see the package icons for the JassalJeevan Repo instead of the ungly grey question mark icon.
