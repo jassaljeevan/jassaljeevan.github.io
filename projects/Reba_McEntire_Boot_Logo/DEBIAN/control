@@ -1,6 +1,6 @@
 Package: com.jassaljeevan.rebamcentirebootlogo
 Name: Reba McEntire Boot Logo
-Version: 1.0
+Version: 1.0.1
 Architecture:iphoneos-arm
 Description: Boot Logo of Reba McEntire
  <p>Works with both Anemone and WinterBoard!</p>
