@@ -1,6 +1,6 @@
 Package: com.jassaljeevan.assassinscreedvolumehud
 Name: Assassins Creed Volume HUD
-Version: 1.0-1
+Version: 1.0-01
 Architecture:iphoneos-arm
 Description: Volume indicator of Assassins Creed logo
  <p>Works with both Anemone and WinterBoard!</p>

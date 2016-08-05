@@ -1,6 +1,6 @@
 Package: com.jassaljeevan.116cliquebootlogo
 Name: 116 Clique Boot Logo
-Version: 1.0
+Version: 1.0-01
 Architecture:iphoneos-arm
 Description: Boot Logo of the 116 CLique Logo
  <p>Works with both Anemone and WinterBoard!</p>
