@@ -1,4 +1,5 @@
 Package: com.jassaljeevan.assassinscreedvolumehud
+<<<<<<< HEAD
 Version: 1.0-01
 Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
@@ -7,6 +8,14 @@ Size: 25152
 MD5sum: 64a32627c72fb302f9f55cd1df85139d
 SHA1: 5d6a2fc6b7fb9a2bbbc9296a70e317b2e8cdbf2e
 SHA256: b1490c53cbfe07b9118322290f3507c0774429883912852f42fdcaf12bb8dc6c
+=======
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: JassalJeevan <jassaljeevan@gmail.com>
+Filename: ./debs//com.jassaljeevan.assassinscreedvolumehud_1.2_iphoneos-arm.deb
+Size: 13888
+MD5sum: 494d5955c17b4830005dcce8ae57aafd
+>>>>>>> df8f8125fd1cdf926be2419a85f64df03de62a0a
 Section: Volume HUDs
 Description: Volume indicator of Assassins Creed logo
  <p>Works with both Anemone and WinterBoard!</p>
@@ -14,11 +23,9 @@ Description: Volume indicator of Assassins Creed logo
  <p>This is a theme for the volume indicator of the Assassins Creed logo. See the screenshots for more info.</p>
  <p><a href="#"></a>You can email me at <a href="mailto:jassaljeevan@gmail.com">jassaljeevan@gmail.com</a> for requests and support. You can send me requests for a donation of $2.00. You can donate using this <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HWSTZZVY42GMU">PayPal link</a>. Thank you to all those who support me by donating. Don't forget to follow me on Twitter <a href="https://twitter.com/JassalJeevan">@JassalJeevan</a></p>
  <p>For those of you who would like to receive your completed requests within 24 hours, you can donate another $1 and get your request emailed to you with instructions on how to properly install. Please specify in the email if you would like to receive your request early.</p>
-Author: JassalJeevan <jassaljeevan@gmail.com>
-Depiction: https://jassaljeevan.github.io/depictions/com.jassaljeevan.assassinscreedvolumehud/
-Name: Assassins Creed Volume HUD
 
 Package: com.jassaljeevan.dannyphantombootlogo
+<<<<<<< HEAD
 Version: 1.0-01
 Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
@@ -27,6 +34,14 @@ Size: 285524
 MD5sum: 8acea5897987f7c573e33e7aaefe3980
 SHA1: f3050317225d76fd096ea157d35425bac57f7cb1
 SHA256: e7b1085ab0286252529522e4c6bc0dc3ae89451f37437768ecf04299abdccec7
+=======
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: JassalJeevan <jassaljeevan@gmail.com>
+Filename: ./debs//com.jassaljeevan.dannyphantombootlogo_1.1_iphoneos-arm.deb
+Size: 233240
+MD5sum: 3dd46e79807f4e96727bb045549f88ee
+>>>>>>> df8f8125fd1cdf926be2419a85f64df03de62a0a
 Section: Boot Logos
 Description: Boot Logo of the Danny Phantom cartoon
  <p>Works with both Anemone and WinterBoard!</p>
@@ -34,19 +49,22 @@ Description: Boot Logo of the Danny Phantom cartoon
  <p>This is a lock screen slider of Danny Phantom and the Danny Phantom symbol. See the screenshots for more info.</p>
  <p><a href="#"></a>You can email me at <a href="mailto:jassaljeevan@gmail.com">jassaljeevan@gmail.com</a> for requests and support. You can send me requests for a donation of $2.00. You can donate using this <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HWSTZZVY42GMU">PayPal link</a>. Thank you to all those who support me by donating. Don't forget to follow me on Twitter <a href="https://twitter.com/JassalJeevan">@JassalJeevan</a></p>
  <p>For those of you who would like to receive your completed requests within 24 hours, you can donate another $1 and get your request emailed to you with instructions on how to properly install. Please specify in the email if you would like to receive your request early.</p>
-Author: JassalJeevan <jassaljeevan@gmail.com>
-Depiction: https://jassaljeevan.github.io/depictions/com.jassaljeevan.dannyphantombootlogo/
-Name: Danny Phantom Boot Logo
 
 Package: com.jassaljeevan.fallout4slider
 Version: 1.1-01
 Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
+<<<<<<< HEAD
 Filename: ./debs/com.jassaljeevan.fallout4slider_1.1-01_iphoneos-arm.deb
 Size: 52592
 MD5sum: e9f83736878bacccc42c8258e4eb09e1
 SHA1: 484d9da2a5e38fcbc88f13d1809c0fee46e1fd3e
 SHA256: bab578bef85cce2c81304b163d9682724a1a497dbdfd11c3ca7860593e87493d
+=======
+Filename: ./debs//com.jassaljeevan.fallout4slider_1.1_iphoneos-arm.deb
+Size: 41538
+MD5sum: 715925cdbd2a1c7633280c36e582ebc2
+>>>>>>> df8f8125fd1cdf926be2419a85f64df03de62a0a
 Section: Sliders
 Description: Lock screen slider of the Fallout 4 game
  <p>Works with both Anemone and WinterBoard!</p>
@@ -54,19 +72,22 @@ Description: Lock screen slider of the Fallout 4 game
  <p>This is a lock screen slider of the Fallout 4 video game. This package includes a slider of the game logo as well as a slider of the Fallout Boy. See the screenshots for more info.</p>
  <p><a href="#"></a>You can email me at <a href="mailto:jassaljeevan@gmail.com">jassaljeevan@gmail.com</a> for requests and support. You can send me requests for a donation of $2.00. You can donate using this <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HWSTZZVY42GMU">PayPal link</a>. Thank you to all those who support me by donating. Don't forget to follow me on Twitter <a href="https://twitter.com/JassalJeevan">@JassalJeevan</a></p>
  <p>For those of you who would like to receive your completed requests within 24 hours, you can donate another $1 and get your request emailed to you with instructions on how to properly install. Please specify in the email if you would like to receive your request early.</p>
-Author: JassalJeevan <jassaljeevan@gmail.com>
-Depiction: https://jassaljeevan.github.io/depictions/com.jassaljeevan.fallout4slider/
-Name: Fallout 4 Slider
 
 Package: com.jassaljeevan.germany4starslider
 Version: 1.1-01
 Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
+<<<<<<< HEAD
 Filename: ./debs/com.jassaljeevan.germany4starslider_1.1-01_iphoneos-arm.deb
 Size: 213642
 MD5sum: 6a039910a8ed1db5badb9d04bbfcf6c2
 SHA1: 5181d4e93218a1b2586a7b325d65e8ccb0c92c97
 SHA256: d68fc88dd32f21b84136fe7ee661de70b29fa9b7113dcf11a721bae3d0a66c06
+=======
+Filename: ./debs//com.jassaljeevan.germany4starslider_1.1_iphoneos-arm.deb
+Size: 213478
+MD5sum: 85d620b487f80311e2345f124edb2748
+>>>>>>> df8f8125fd1cdf926be2419a85f64df03de62a0a
 Section: Sliders
 Description: Lock screen slider of the Germany international crest
  <p>Works with both Anemone and WinterBoard!</p>
@@ -74,10 +95,8 @@ Description: Lock screen slider of the Germany international crest
  <p>This is a lock screen slider of the German team's crest, but with 4 stars on top instead of 3. See the screenshots for more info. This package was requested by Claas Reinecke (@Claas91).</p>
  <p><a href="#"></a>You can email me at <a href="mailto:jassaljeevan@gmail.com">jassaljeevan@gmail.com</a> for requests and support. You can send me requests for a donation of $2.00. You can donate using this <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HWSTZZVY42GMU">PayPal link</a>. Thank you to all those who support me by donating. Don't forget to follow me on Twitter <a href="https://twitter.com/JassalJeevan">@JassalJeevan</a></p>
  <p>For those of you who would like to receive your completed requests within 24 hours, you can donate another $1 and get your request emailed to you with instructions on how to properly install. Please specify in the email if you would like to receive your request early.</p>
-Author: JassalJeevan <jassaljeevan@gmail.com>
-Depiction: https://jassaljeevan.github.io/depictions/com.jassaljeevan.germany4starslider/
-Name: Germany 4-Star Slider
 
+<<<<<<< HEAD
 Package: com.jassaljeevan.jassaljeevaniconpack
 Version: 0.0.3-01
 Architecture: iphoneos-arm
@@ -87,21 +106,34 @@ Size: 204028
 MD5sum: 9137e793d03bccc34c0d9392a83b3b5f
 SHA1: a7321f0ad8ba69bb103ae0885377ce202f479e83
 SHA256: 90b550f39b3c9820057fc6fffcd2892b30c9abd29730fae4eb848d31c6900cfb
+=======
+Package: com.jassaljeevan.jassaljeevanrepoicons
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: JassalJeevan <jassaljeevan@gmail.com>
+Filename: ./debs//com.jassaljeevan.jassaljeevanrepoicons_0.0.3_iphoneos-arm.deb
+Size: 670
+MD5sum: 11511eaf423624cb4595d145add58033
+>>>>>>> df8f8125fd1cdf926be2419a85f64df03de62a0a
 Section: Repo
 Description: Repo Icons for the JassalJeevan Repo
  Install this icon pack in order to see the package icons for the JassalJeevan Repo instead of the ungly grey question mark icon.
-Author: JassalJeevan <jassaljeevan@gmail.com>
-Name: JassalJeevan Icon Pack
 
 Package: com.jassaljeevan.thedivisionslider
 Version: 1.1-01
 Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
+<<<<<<< HEAD
 Filename: ./debs/com.jassaljeevan.thedivisionslider_1.1-01_iphoneos-arm.deb
 Size: 25078
 MD5sum: 07bf7878025c07e23b341887ecbebec4
 SHA1: 1b3dd064f6936f064650fb9d06267c297bef2dcb
 SHA256: 4b6c29f5948446e74c69ddd9eb24e3f4f6cc57c536aa906d62e843a9e3b9ca3f
+=======
+Filename: ./debs//com.jassaljeevan.thedivisionslider_1.1_iphoneos-arm.deb
+Size: 20212
+MD5sum: 79825a58427a894ba8d93e5e8760249d
+>>>>>>> df8f8125fd1cdf926be2419a85f64df03de62a0a
 Section: Sliders
 Description: Lock screen slider of The Division game logo
  <p>Works with both Anemone and WinterBoard!</p>
@@ -110,7 +142,4 @@ Description: Lock screen slider of The Division game logo
  logo. See the screenshots for more info.</p>
  <p><a href="#"></a>You can email me at <a href="mailto:jassaljeevan@gmail.com">jassaljeevan@gmail.com</a> for requests and support. You can send me requests for a donation of $2.00. You can donate using this <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HWSTZZVY42GMU">PayPal link</a>. Thank you to all those who support me by donating. Don't forget to follow me on Twitter <a href="https://twitter.com/JassalJeevan">@JassalJeevan</a></p>
  <p>For those of you who would like to receive your completed requests within 24 hours, you can donate another $1 and get your request emailed to you with instructions on how to properly install. Please specify in the email if you would like to receive your request early.</p>
-Author: JassalJeevan <jassaljeevan@gmail.com>
-Depiction: https://jassaljeevan.github.io/depictions/com.jassaljeevan.thedivisionslider/
-Name: The Division Slider
 
