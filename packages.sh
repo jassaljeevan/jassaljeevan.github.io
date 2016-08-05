@@ -12,4 +12,9 @@ dpkg-deb -bZgzip projects/Slytherin_Theme_Update debs
 dpkg-deb -bZgzip projects/Bayern_Munich_Volume_HUD debs
 dpkg-deb -bZgzip projects/Christian_Fish_Cross_Boot_Logo debs
 dpkg-deb -bZgzip projects/Christian_Fish_IXOYE_Boot_Logo debs
+dpkg-deb -bZgzip projects/_007_Slider debs
+dpkg-deb -bZgzip projects/Juggernog_Slider debs
+dpkg-deb -bZgzip projects/Dogmeat_Slider debs
+dpkg-deb -bZgzip projects/Need_For_Speed_Slider debs
+dpkg-deb -bZgzip projects/NBI_Boot_Logo debs
 # dpkg-deb -bZgzip projects/<project name> <output folder>
