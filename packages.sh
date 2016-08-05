@@ -8,4 +8,5 @@ dpkg-deb -bZgzip projects/Danny_Phantom_Boot_Logo debs
 dpkg-deb -bZgzip projects/Reba_McEntire_Boot_Logo debs
 dpkg-deb -bZgzip projects/Christian_Fish_Boot_Logo debs
 dpkg-deb -bZgzip projects/_116_Clique_Boot_Logo debs
+dpkg-deb -bZgzip projects/Slytherin_Theme_Update debs
 # dpkg-deb -bZgzip projects/<project name> <output folder>
