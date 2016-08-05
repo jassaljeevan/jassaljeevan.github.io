@@ -1,6 +1,6 @@
 Package: com.jassaljeevan.christianfishbootlogo
 Name: Christian Fish Boot Logo
-Version: 1.0-01
+Version: 1.2
 Architecture:iphoneos-arm
 Description: Boot Logo of the Christian Fish
  <p>Works with both Anemone and WinterBoard!</p>
