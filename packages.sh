@@ -17,4 +17,8 @@ dpkg-deb -bZgzip projects/Juggernog_Slider debs
 dpkg-deb -bZgzip projects/Dogmeat_Slider debs
 dpkg-deb -bZgzip projects/Need_For_Speed_Slider debs
 dpkg-deb -bZgzip projects/NBI_Boot_Logo debs
+dpkg-deb -bZgzip projects/Life_Is_Strange_Slider debs
+dpkg-deb -bZgzip projects/Beyond_Two_Souls_Slider debs
+dpkg-deb -bZgzip projects/Tigres_UANL_Slider debs
+dpkg-deb -bZgzip projects/Apple_Watch_Slider debs
 # dpkg-deb -bZgzip projects/<project name> <output folder>
