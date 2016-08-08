@@ -21,4 +21,10 @@ dpkg-deb -bZgzip projects/Life_Is_Strange_Slider debs
 dpkg-deb -bZgzip projects/Beyond_Two_Souls_Slider debs
 dpkg-deb -bZgzip projects/Tigres_UANL_Slider debs
 dpkg-deb -bZgzip projects/Apple_Watch_Slider debs
+dpkg-deb -bZgzip projects/_6_God_Hands_Slider debs
+dpkg-deb -bZgzip projects/_300_Logo_Slider debs
+dpkg-deb -bZgzip projects/AS_Roma_Slider debs
+dpkg-deb -bZgzip projects/AC_Milan_Slider debs
+dpkg-deb -bZgzip projects/ACC_Slider debs
+dpkg-deb -bZgzip projects/ACF_Fiorentina_Slider debs
 # dpkg-deb -bZgzip projects/<project name> <output folder>
