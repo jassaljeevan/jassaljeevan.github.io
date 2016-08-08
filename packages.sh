@@ -27,4 +27,5 @@ dpkg-deb -bZgzip projects/AS_Roma_Slider debs
 dpkg-deb -bZgzip projects/AC_Milan_Slider debs
 dpkg-deb -bZgzip projects/ACC_Slider debs
 dpkg-deb -bZgzip projects/ACF_Fiorentina_Slider debs
+dpkg-deb -bZgzip projects/Assassins_Creed_Power_Off debs
 # dpkg-deb -bZgzip projects/<project name> <output folder>
