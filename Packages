@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.007slider_1.1_iphoneos-arm.deb
 Size: 12980
-MD5sum: 003d95477d410a7b7fab9c692aa1a289
-SHA1: 26c2d9e2a2f0e8323c73c870769815d11cdadd2f
-SHA256: 8e7e2bdf17727cdb8d5d3b515d2684b5fdc431a42277b3b6e885cfbf4cc62139
+MD5sum: 9957d8d0ab6009ce41fed144dbf25893
+SHA1: f3087b2dd16928f7b50e1842f9b26ff6e5240671
+SHA256: b2d02fa9649acab9f75543b7a2e19f2428ae95a22fd87d7dab0b134ae52e926f
 Section: Sliders
 Description: Lock screen slider of the 007 logo
  <p>Works with both Anemone and WinterBoard!</p>
@@ -24,9 +24,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.116cliquebootlogo_1.2_iphoneos-arm.deb
 Size: 67052
-MD5sum: 1c02fdbbbb2ad95e28131fd887c43296
-SHA1: e218fe7537c5b6ec570cab763f0881ba30ebe1b4
-SHA256: 6abf8a760fd17cd581c9b5851459ddaaccc213fffa4f77e79a5cef001bdfc408
+MD5sum: 0cbebb4c50bfad7c7c6a31f1a12915a8
+SHA1: a00266e760794f45460955962e8e388adc99f600
+SHA256: b8eb2d34135ec329e69e70c6f882b3ba83a7b275946eb656e99ed8026211a621
 Section: Boot Logos
 Description: Boot Logo of the 116 CLique Logo
  <p>Works with both Anemone and WinterBoard!</p>
@@ -44,9 +44,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.300logoslider_1.1_iphoneos-arm.deb
 Size: 70558
-MD5sum: 33942fb07a9badae897390c83a2a938b
-SHA1: 62888f58263d92a2789de190c2b5687b586be4e5
-SHA256: dacd4af77de6866e0a35caf575e8f9a2c1ffe9810de2e2a4e96d3c9379dbe2d4
+MD5sum: 0c22234f8ab291671102c60fd99d742f
+SHA1: a2520211497cd87ca6e10e7ec2a30faf8c6e068b
+SHA256: 54cf9c4aa13f46c03c74c81536013930464191e7d82c6525195a832d1620763d
 Section: Sliders
 Description: Lock screen slider of 300 movie logo
  <p>Works with both Anemone and WinterBoard!</p>
@@ -64,9 +64,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.6godhandsslider_1.1_iphoneos-arm.deb
 Size: 243810
-MD5sum: 6373014ed3aceec1f030472f43661b51
-SHA1: 6b0f155ce44ade67a511d5abebfe97a253bcc23b
-SHA256: 95780ac61b792a8cb71425d9b459bbe0c4bcd9239eaca04fe01f325e2981cff9
+MD5sum: acba6a672cf9eb9beda713d9975f8bcb
+SHA1: a5fc712b3b34de54b29592923bc495ae5df81f30
+SHA256: 78111d4f3b68a04c53bb3f1cdb4f7b64a35475673ed14fb8187f5d234401a90f
 Section: Sliders
 Description: Lock screen slider of the 6 God Hands
  <p>Works with both Anemone and WinterBoard!</p>
@@ -84,9 +84,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.accslider_1.1_iphoneos-arm.deb
 Size: 134888
-MD5sum: 71e1daff1447134d8e359b9d4e42c775
-SHA1: 92489f95322a41a76572290234b5444577b56bd6
-SHA256: ce02509237164cee0efd7bd049d1adf800b9cbf244a45261fc8375fcad139805
+MD5sum: 6ab041e18641469000fd2c96ac37d2cc
+SHA1: 4af23c0bd08ab2f6748b5afa08c19cf3c6a2bd4f
+SHA256: 53bf0437f7fac72f747e87a9e7656de77fe725235e3f2614afd70576ff70558f
 Section: Sliders
 Description: Lock screen slider of the ACC logo
  <p>Works with both Anemone and WinterBoard!</p>
@@ -104,9 +104,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.acffiorentinaslider_1.1_iphoneos-arm.deb
 Size: 187076
-MD5sum: 0d2c534e047dbe77d0239f14f5393127
-SHA1: 9f6e6df07681bd2ca080ab74118e14c6089fb4e0
-SHA256: 4899d63ca5c6dd5975d665ffdd8345fd6774dbd708ddb9d7d79c8d048a8785f2
+MD5sum: 86a146413d27af30e42e10915caf32d1
+SHA1: b91c34416ba053c83ed792d513ec4b166078d54a
+SHA256: d7568d2a92fb29ea43aab20fd9e1050d8d7cb65d531d90d6e90e3991ed36fdce
 Section: Sliders
 Description: Lock screen slider of the ACF Fiorentina logo
  <p>Works with both Anemone and WinterBoard!</p>
@@ -124,9 +124,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.acmilanslider_1.1_iphoneos-arm.deb
 Size: 156416
-MD5sum: 78887a1cfd81d7f1c9fd8fcc15a6ae95
-SHA1: 79a1e2183e95efedfd4d1e3b9b03fa42d9d7ba8c
-SHA256: 9ab8717c6b51a1cea32e6cccc81a2508b3c6f7a6c57782b60c9bd190de2e0ccf
+MD5sum: 3a7982a5810a757a2404ebac298cbc5b
+SHA1: 615ff93dfd6c69638b5594d1488506ff90c89c44
+SHA256: 4e30bf0d2209b6af5b96a7dbc546308427434b6b70ee09979a594eaeebb78768
 Section: Sliders
 Description: Lock screen slider of the AC Milan soccer team
  <p>Works with both Anemone and WinterBoard!</p>
@@ -144,9 +144,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.applewatchslider_1.1_iphoneos-arm.deb
 Size: 48544
-MD5sum: 0ba1dd9243dff4729f0e38627abad005
-SHA1: a44b3e3e1d76ba46821abfd4cb3238298b34a68d
-SHA256: c833b2f1d0edca154d8162f7c2e8c525cf4697c5b8b39660040dbda21eeda3e6
+MD5sum: 9ef895486a64bce1cec4c7a9fe9622fd
+SHA1: 63d9eabf68187e76c4f4dbb5a4acbc0af1e6aee9
+SHA256: 3096cda0b6bfc4af35eb160234638c0e4dca0481e66bb3ddc4a58c597a6a545a
 Section: Sliders
 Description: Lock screen slider of the Apple Watch logo
  <p>Works with both Anemone and WinterBoard!</p>
@@ -164,9 +164,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.asromaslider_1.1_iphoneos-arm.deb
 Size: 220302
-MD5sum: eaea0bfa51cb8ac322ba358ef43d2c77
-SHA1: 81567f360592f8f27d6dc9b19c72dbad7865793d
-SHA256: 7666ac565b9bdedace401f234267bf72fa5134db51f19a2d0f2780a02713ba9e
+MD5sum: 898c10a9663894bf78aad52ee405a7a5
+SHA1: 13bea29c916f3ba216ec2e77c0629b7d9892b039
+SHA256: 3690737d32d2911eb949826f3a6106a4b0e97c9cf805dac43fa1c65540fd9b16
 Section: Sliders
 Description: Lock screen slider of the AS Roma soccer team
  <p>Works with both Anemone and WinterBoard!</p>
@@ -184,9 +184,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.assassinscreedpoweroff_1.2_iphoneos-arm.deb
 Size: 27402
-MD5sum: 9d7dfe182e35b2fc14051d39e680c5d3
-SHA1: 28e70a6d44f932fe88c08a8b173a5c1514185191
-SHA256: 319c44bcf15b2c479412b36437d483e31edb6a4f76404b804bd3bd0a88467bfe
+MD5sum: 83d580c7a9b92ba9d6fb3bf3b88f463d
+SHA1: ad4d3e447b83df7ef5d9ebf8417fdde8e400b2c3
+SHA256: 02ed13f2ef55a68ebb63e9dfe42b793b3771d3d1a745d79570d27c3cbcf9b170
 Section: Power Offs
 Description: Power off theme of the Assassins Creed logo
  <p>Works with both Anemone and WinterBoard!</p>
@@ -204,9 +204,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.assassinscreedvolumehud_1.2_iphoneos-arm.deb
 Size: 25134
-MD5sum: 7d44a4e9f4e73d5f488c6dfafce29926
-SHA1: b4419a5b6dccaced67e2b7e0e3a4e097540a78ab
-SHA256: 30350bed9b0a1447cc689dd4cbb8c7518563131553cca0caf70d835b2a4f658e
+MD5sum: ea5f4f8bd272e037d4cb18ad8b1c6d29
+SHA1: a3263428614af67c647378ffde85f43d7523427c
+SHA256: b00802e20094a95c64e75ffe46485ccfc4a43007d64cedf96af007dff35c1926
 Section: Volume HUDs
 Description: Volume indicator of Assassins Creed logo
  <p>Works with both Anemone and WinterBoard!</p>
@@ -224,9 +224,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.baschiverdipoweroff_1.0_iphoneos-arm.deb
 Size: 93212
-MD5sum: da5e63e1e1a94435a9326f074694f1f7
-SHA1: d2bc45e20784065a4acc94c54110618b57429f29
-SHA256: 81a1756cee2f4ee2da7a83cc941673d8eb14887f30c07fdeda321133bad2132e
+MD5sum: 2ba9b5323b3657f56c8d0b9cc886fbf3
+SHA1: a2b36ab183f77df6b2c0184dfdb3299827c83b1e
+SHA256: ccbb859c2fa21d02863b4ad3547014888a1cd16e6ed953a6e0ce0969c74ab343
 Section: Power Offs
 Description: Power off theme of the Baschi Verdi logo
  <p>Works with both Anemone and WinterBoard!</p>
@@ -244,9 +244,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.bayernmunichvolumehud_1.0_iphoneos-arm.deb
 Size: 38078
-MD5sum: aae4646d9d1da78d2a239bef4fdffce3
-SHA1: b9c7d1ef46a8a086e3cefe9678a1cc79b3ec9d4b
-SHA256: 4853a59f40f4602c61abe6986edea4d5c1f8a2cbc67b2d6c58e05b2bfd84eb7e
+MD5sum: 3d72fb833794b1d567b218f8f8694880
+SHA1: ba8e80786ba2faf8d36bf74c4b839b8aeb0b2ddc
+SHA256: 96d6e19e0c70cd8f41ee0f688305fd44d3570f93f7e41e0b6868ee566e597fa5
 Section: Volume HUDs
 Description: Volume indicator of Bayern Munich logo
  <p>Works with both Anemone and WinterBoard!</p>
@@ -264,9 +264,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.beyondtwosoulsslider_1.1_iphoneos-arm.deb
 Size: 134508
-MD5sum: 76e5598d384288780e4db4f7563074c2
-SHA1: 8818b80454422504f7982753a74f38545ceee9db
-SHA256: 663392d0d673ba2c2c723e2c4120a66ab7ed28fbd8c93a61ad64280000194cef
+MD5sum: 0034ffa6cceeaf5a1869dd07b22ef5e1
+SHA1: 97985b4136874dfa91e23b430f9adc02914c4694
+SHA256: 4071578960b7aff5a8a330ea33c55538cc8e395cded6195b82e4e645b47f1eba
 Section: Sliders
 Description: Lock screen slider of Beyond Two Souls game logo
  <p>Works with both Anemone and WinterBoard!</p>
@@ -284,9 +284,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.christianfishbootlogo_1.2_iphoneos-arm.deb
 Size: 181708
-MD5sum: 77c849be4d20ef6bd5035a63152763cd
-SHA1: df89a533b88ca87984f3d918850ae1ac51358dbc
-SHA256: 95d7d3d610a6018bd4e80e05a3cec16514bf56ad3061c0cfd6b6775a7e022b3f
+MD5sum: 5760e3fdc4fd017771defb36ec4a157b
+SHA1: 1f8bffe65a9f228dbfadaf11fa5cfbd53ebac035
+SHA256: 4984f02c438a825bfb257c92074db4dffda7f866c103dce7349ca58a0ac12f40
 Section: Boot Logos
 Description: Boot Logo of the Christian Fish
  <p>Works with both Anemone and WinterBoard!</p>
@@ -304,9 +304,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.christianfishcrossbootlogo_1.0_iphoneos-arm.deb
 Size: 189592
-MD5sum: d2c8e71012eafd456452c3e400c526af
-SHA1: d02055d73ac7cfe08351b994775ba8016a608079
-SHA256: 860be3e5983f39e3cdea257cc777dcbb2ebf79637a72e1e913001b4f2967e323
+MD5sum: 625069da409f1091ab5fd71adfdb6415
+SHA1: 222598c327dd172bb69f912933128d4f97f5208f
+SHA256: f2e33e773ff33687a1cda0091e51b721a0bea17410913ff161bbb24be3299e64
 Section: Boot Logos
 Description: Boot Logo of the Christian Fish with a Cross
  <p>Works with both Anemone and WinterBoard!</p>
@@ -324,9 +324,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.christianfishixoyebootlogo_1.0_iphoneos-arm.deb
 Size: 222094
-MD5sum: 35d3630755314c3ef4e38ee72b4bf627
-SHA1: 31e182c8182ec26655e0087dd2fb915eb5aa5cbc
-SHA256: ecc0c4aad4bb574892ed777c68a250f48da60c2c4bbd149d607c4d1871a3260a
+MD5sum: 557887d8a495cac5ba85e5c76ef1d181
+SHA1: 3075c49355dd83bd0501e6d1b53d208761cb8c34
+SHA256: 58cdaa3d6b22b2ade7617612a7b5f0228e417d480a4254dfdac6a2f8f3be96e4
 Section: Boot Logos
 Description: Boot Logo of the Christian Fish with IXOYE inside
  <p>Works with both Anemone and WinterBoard!</p>
@@ -344,9 +344,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.dannyphantombootlogo_1.1_iphoneos-arm.deb
 Size: 284360
-MD5sum: 5dcfcc2d655ae0d7d68645d36adf3733
-SHA1: 75202c5966472f023842f8e652c33af55fbd8995
-SHA256: 23d23c9677806cc3a98ff833189b536c076d9863f8b04333c8bbd45de2862e5f
+MD5sum: e64f39d885cdd2e1f078af44798b1c93
+SHA1: 3b4dcbf2c5928add37bfcbef5923ad5a5b21aae0
+SHA256: eda31751d8e5280a529056e237b2ca9b2826106434b66c539654a5f0479c20ff
 Section: Boot Logos
 Description: Boot Logo of the Danny Phantom cartoon
  <p>Works with both Anemone and WinterBoard!</p>
@@ -364,9 +364,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.dogmeatslider_1.1_iphoneos-arm.deb
 Size: 9750
-MD5sum: 1440f3ec39cf7d2071610a4fe3d28917
-SHA1: f7fa353b5d575f8281733cdc8fa2b82d273fe111
-SHA256: ae9bf3898592df70d218779ce99d31e172a279a0135773f49909c982f68717b8
+MD5sum: e10f4b24340412470e00fb806065b152
+SHA1: 43b1b00fac746dc6954c4da5e8e29d4a0ba947f3
+SHA256: c2a944d418cdb11955011bf13566b6e35d966d6eac4006fc4234e629914ea2c6
 Section: Sliders
 Description: Lock screen slider of the Fallout 4 dog
  <p>Works with both Anemone and WinterBoard!</p>
@@ -384,9 +384,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.fallout4slider_1.1-01_iphoneos-arm.deb
 Size: 52632
-MD5sum: a673e2d9c1a6dca6f5b1c6774236c785
-SHA1: 3827eec9cf8de2be022fe8dc1ed3c815c2797d1b
-SHA256: 6a8559e921ba886b12ee6a3437ef387f06869b4964f66a94814e58e24164faad
+MD5sum: 5eda012a96eba7ae5a8c0efde7975224
+SHA1: f688c0ea8de8f622be8a68988c7a590b8679136e
+SHA256: 995c4a02f8cbd8cdfac29d4815efbb797c3dafa90900d7d429c354791f62e84a
 Section: Sliders
 Description: Lock screen slider of the Fallout 4 game
  <p>Works with both Anemone and WinterBoard!</p>
@@ -404,9 +404,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.fcbarcelonapoweroff_1.0_iphoneos-arm.deb
 Size: 63910
-MD5sum: 77016d550d3b1c6aff5575fd1ad75436
-SHA1: 81a7177da8d087912edab8167e6366eadf21eac5
-SHA256: 6ae23120e546f5c88e03ada0e5b0ecb08a9183bc183a93a3823a0f977a39d6f2
+MD5sum: 5bda03ca3546978ecaa4527733480873
+SHA1: 26c4d91c500f109202948217a9a9116b44869766
+SHA256: 85e07753a9ed510297bf5d7cee83f123cb6e05bc3a91fea4ba6c2468bc0f8419
 Section: Power Offs
 Description: Power off theme of the FC Barcelona logo
  <p>Works with both Anemone and WinterBoard!</p>
@@ -424,9 +424,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.germany4starslider_1.1-01_iphoneos-arm.deb
 Size: 213680
-MD5sum: e3582099046ebdc8801c97ab70edeb25
-SHA1: cb211db60a5b8faf2fadb0e0ff9f7791a6720bdd
-SHA256: e7ff548ef71dcc895feb59101740e6d8b6989bfbd8fce18948a66159de6e7963
+MD5sum: 723855df5a340587609a052840781f07
+SHA1: 7ba98a41d575dcf7f500e2ed5e65c8dfa5a4059b
+SHA256: 20955ae9f6990f8e1067136dc322aded4a0dc9bb59658b4d301fe1f39e50727c
 Section: Sliders
 Description: Lock screen slider of the Germany international crest
  <p>Works with both Anemone and WinterBoard!</p>
@@ -444,9 +444,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.jassaljeevaniconpack_0.0.3-03_iphoneos-arm.deb
 Size: 204050
-MD5sum: 2017e670e3ed7fb64f6fab0a54fee664
-SHA1: 64204ade1622b27b2298665095c7b2f0e04edc34
-SHA256: ce47382fa6b625c10c04583a156ee46ee4c420175430e259a2dcd554bc46fec8
+MD5sum: f2a6141bf4ef2174f1c1cd19fc700c99
+SHA1: d481cdfd8b0b995124a8b68321d57eaed8d4b927
+SHA256: 460ff1f8c41312403421564eb6a9d0245e643d9664e9576d23bab25a1db5ace6
 Section: Repo
 Description: Repo Icons for the JassalJeevan Repo
  Install this icon pack in order to see the package icons for the JassalJeevan Repo instead of the ungly grey question mark icon.
@@ -459,9 +459,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.juggernogslider_1.1_iphoneos-arm.deb
 Size: 44084
-MD5sum: cc94055b017cd600f451e7bd26fe66f9
-SHA1: 7d28f9e3567801906fd347a73e85915a4d8c194c
-SHA256: c8e4c90938d62b8b3f9508a5fd578a0032e32b81bda03c7083987860f7b684ff
+MD5sum: 02d5cc494ac4f06a8a22cc6d8d519080
+SHA1: a7041164538cc644d2a0132ad6fdd42a4bd9cf27
+SHA256: 4ec64c36858eaf49bb8d7df554ead1bd9f8c1831ff7e75e54e598231af1c024a
 Section: Sliders
 Description: Lock screen slider of the Juggernog Perk-a-cola
  <p>Works with both Anemone and WinterBoard!</p>
@@ -479,9 +479,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.lifeisstrangeslider_1.1_iphoneos-arm.deb
 Size: 89712
-MD5sum: 0613d1dce0248b95f687af63c69f2e4e
-SHA1: 75879d5b07f5a97bfccef861ccaba022bde18b19
-SHA256: a011f6a3f31aa15c0362f5a32d7e140df86f02ce375ded9f97068fe917de6221
+MD5sum: 2bb98f1b3639586b96a3a9fa5dbffc32
+SHA1: 3aa8a7526c369702e201c65f0ae3aff5ea304294
+SHA256: d607f3339adc611b202425fb451044e58d0c803cf03c5f7e443f8bfa0a4c6188
 Section: Sliders
 Description: Lock screen slider of Life Is Strange game logo
  <p>Works with both Anemone and WinterBoard!</p>
@@ -493,15 +493,35 @@ Author: JassalJeevan <jassaljeevan@gmail.com>
 Depiction: https://jassaljeevan.github.io/depictions/com.jassaljeevan.lifeisstrangeslider/
 Name: Life Is Strange Slider
 
+Package: com.jassaljeevan.manupoweroff
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: JassalJeevan <jassaljeevan@gmail.com>
+Filename: ./debs/com.jassaljeevan.manupoweroff_1.0_iphoneos-arm.deb
+Size: 85534
+MD5sum: 6fb2779534c3eac7274b583d0e1caf82
+SHA1: 6ec4de3b4ab6955d62a6ae928fadddbf97c97ed5
+SHA256: d57595e50dc5f2393a9c1e59d119613ccb71675badaeeb2938a5270c76ecb4dc
+Section: Power Offs
+Description: Power off theme of the Manchester United logo
+ <p>Works with both Anemone and WinterBoard!</p>
+ <p>Compatible with all devices running iOS 7 - 9+</p>
+ <p>This is a theme for the power off screen of the Manchester United football club logo. See the screenshots for more info.</p>
+ <p><a href="#"></a>You can email me at <a href="mailto:jassaljeevan@gmail.com">jassaljeevan@gmail.com</a> for requests and support. You can send me requests for a donation of $2.00. You can donate using this <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HWSTZZVY42GMU">PayPal link</a>. Thank you to all those who support me by donating. Don't forget to follow me on Twitter <a href="https://twitter.com/JassalJeevan">@JassalJeevan</a></p>
+ <p>For those of you who would like to receive your completed requests within 24 hours, you can donate $5 and get your request emailed to you with instructions on how to properly install. Please specify in the email if you would like to receive your request early.</p>
+Author: JassalJeevan <jassaljeevan@gmail.com>
+Depiction: https://jassaljeevan.github.io/depictions/com.jassaljeevan.manupoweroff/
+Name: Man U Power Off
+
 Package: com.jassaljeevan.mercedesbenzpoweroff
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.mercedesbenzpoweroff_1.0_iphoneos-arm.deb
 Size: 27678
-MD5sum: b7dcefe29f982cb54a72937ab57c28a6
-SHA1: a6295c5cfadab9af094c8280eff519457a1e5db1
-SHA256: 2a271927fa043cb307f4d9a56396efe352713a6e2fb467d6999c3e59cc607049
+MD5sum: c21667a574d973a4dfc2a993d1dce4bd
+SHA1: 37ba8915d10f86ec3568d71f339e07b1a7ac2957
+SHA256: fe1fb64d876d12922e544c47a7d7d29eca358c73167ef6686fefbc94b3233aaa
 Section: Power Offs
 Description: Power off theme of the Mercedes Benz logo
  <p>Works with both Anemone and WinterBoard!</p>
@@ -519,9 +539,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.nbibootlogo_1.0_iphoneos-arm.deb
 Size: 272584
-MD5sum: cb0fc479a073b91438c6a743ba717fda
-SHA1: 1830ee6f814090951fcc847f7e7bb39fafdea472
-SHA256: 1cf26e6a573a53a953fa3155dcb6d3316a40c73a5b1af65ff9c58a5f749e2446
+MD5sum: db743af4e2c711d9480251646ee3883f
+SHA1: ece052311131e98d1daba5507bb3d98fddf76ef8
+SHA256: c25aeffe1c2c0a064bb099e5f0d5ec6a22c93b17cc3d480fffb22cd07b3a5f07
 Section: Boot Logos
 Description: Boot Logo of the NBI Logo
  <p>Works with both Anemone and WinterBoard!</p>
@@ -539,9 +559,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.needforspeedslider_1.1_iphoneos-arm.deb
 Size: 61498
-MD5sum: 71c683d65842d99b5713c5665a15b560
-SHA1: 70e1db1b489dfbe5c309e2e2fd27f9677e83f8d9
-SHA256: a7e07624af9a9d3f8de3832ccb154b34338e2121aef9186d4675767c11cc0217
+MD5sum: 576f5e7daf7aa084cb6b6c00d61b7e69
+SHA1: 5caae30cfcd7bdcea266d7a4d4624d6fb4b30a5e
+SHA256: c41f729061f589fcf87ff772cf8bff197060465501363f86d851b42b1b8b09ed
 Section: Sliders
 Description: Lock screen slider of the Need For Speed logo
  <p>Works with both Anemone and WinterBoard!</p>
@@ -559,9 +579,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.rebamcentirebootlogo_1.0.1_iphoneos-arm.deb
 Size: 4423322
-MD5sum: ffe469295f5530836ab7145f9dc72fad
-SHA1: 8ca82015ba629e8009dec4ae2cd98c1eaf162ffd
-SHA256: 14be1b5a63516a134a09c264a7d10015da4423c0744eeeef5bf5d71fbae1b209
+MD5sum: cd227b6e5b83f544285b5e90b6aa2136
+SHA1: 9b5f0456fa8867d347e4e013f174f1441d4a2afb
+SHA256: 3f3f65f43e6bd4b2b36916edccd6efbeb0d9ae7634c2a89b72561c575fd6cbb9
 Section: Boot Logos
 Description: Boot Logo of Reba McEntire
  <p>Works with both Anemone and WinterBoard!</p>
@@ -579,9 +599,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.slytherinthemeupdate_1.0_iphoneos-arm.deb
 Size: 6189874
-MD5sum: 51a622b841612cc582951f015ddf146d
-SHA1: e84baaa1b5cd2d722dd279cffbc2a8b06df8cda6
-SHA256: 9ee574af87f6f799ae0297348866d7cca46c6c8f3b5e5cdcb7ea6d05114ac342
+MD5sum: 10ec3c2446bd7223273d1db46a6050f6
+SHA1: 8c6d0cd72572772144c47e4ba1bac223ac3e357b
+SHA256: 5e3129c9164e4ad6ac007cddf7fd5cf51872a239b0e845f5a8b7c7cba2ab808f
 Section: Themes
 Description: Animated Slytherin Snake and transparent icons
  <p>Works with Anemone... Not tested on WinterBoard</p>
@@ -599,9 +619,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.thedivisionslider_1.1-01_iphoneos-arm.deb
 Size: 25060
-MD5sum: 30c6bc09e5e165df621170f6edf3ce25
-SHA1: 95eea3dff74704f93499c8f88eb436b5bc30faa8
-SHA256: e6e08bd534a95d1752a0b7ee526ca85e512026da696409b8a4fc6c072da52e00
+MD5sum: f35a9e98d07ae55b8e2cbe9202663ab5
+SHA1: f91ef3524bcce04b9f6f1bb69cd7473f8a46c20b
+SHA256: d19dcbdc2db2ce805e2f66c670daba146d5061c5f471f7c16c7318066e0f2de3
 Section: Sliders
 Description: Lock screen slider of The Division game logo
  <p>Works with both Anemone and WinterBoard!</p>
@@ -619,9 +639,9 @@ Architecture: iphoneos-arm
 Maintainer: JassalJeevan <jassaljeevan@gmail.com>
 Filename: ./debs/com.jassaljeevan.tigresuanlslider_1.1_iphoneos-arm.deb
 Size: 134082
-MD5sum: 16f8c8b58490ac772661254867a8fe5d
-SHA1: 246705ff29cbcda85ac20396d09538c40cdfe514
-SHA256: 77d31c913cff258159e398328c9e1ed103ec932759ae9f17537a8b7b403e87e8
+MD5sum: f446e0c477bed762a39ea33b9a43a726
+SHA1: a04ebe7c9866302c848eecb24c9b10e84d5c0c39
+SHA256: 3ff9104ea0cd900863833fb0e6645ed4e5e17999de11a72fc724cee2026a8ed4
 Section: Sliders
 Description: Lock screen slider of the Tigres UANL team logo
  <p>Works with both Anemone and WinterBoard!</p>
