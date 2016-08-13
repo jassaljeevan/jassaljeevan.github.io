@@ -28,4 +28,8 @@ dpkg-deb -bZgzip projects/AC_Milan_Slider debs
 dpkg-deb -bZgzip projects/ACC_Slider debs
 dpkg-deb -bZgzip projects/ACF_Fiorentina_Slider debs
 dpkg-deb -bZgzip projects/Assassins_Creed_Power_Off debs
+dpkg-deb -bZgzip projects/Baschi_Verdi_Power_Off debs
+dpkg-deb -bZgzip projects/FC_Barcelona_Power_Off debs
+dpkg-deb -bZgzip projects/Man_U_Power_Off debs
+dpkg-deb -bZgzip projects/Mercedes_Benz_Power_Off debs
 # dpkg-deb -bZgzip projects/<project name> <output folder>
