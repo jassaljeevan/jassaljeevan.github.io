@@ -39,4 +39,7 @@ dpkg-deb -bZgzip projects/Argentina_World_Cup_Slider debs
 dpkg-deb -bZgzip projects/Arsenal_FC_Slider debs
 dpkg-deb -bZgzip projects/ASAP_Rocky_Slider debs
 dpkg-deb -bZgzip projects/Assassins_Creed_Syndicate_Slider debs
+dpkg-deb -bZgzip projects/Alienware_Slider debs
+dpkg-deb -bZgzip projects/Anchor_Infini_Slider debs
+dpkg-deb -bZgzip projects/Anonymous_Slider debs
 # dpkg-deb -bZgzip projects/<project name> <output folder>
