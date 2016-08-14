@@ -32,4 +32,11 @@ dpkg-deb -bZgzip projects/Baschi_Verdi_Power_Off debs
 dpkg-deb -bZgzip projects/FC_Barcelona_Power_Off debs
 dpkg-deb -bZgzip projects/Man_U_Power_Off debs
 dpkg-deb -bZgzip projects/Mercedes_Benz_Power_Off debs
+dpkg-deb -bZgzip projects/Ant_Man_Slider debs
+dpkg-deb -bZgzip projects/Apple_Swift_Slider debs
+dpkg-deb -bZgzip projects/Arden_Hills_Logo_Slider debs
+dpkg-deb -bZgzip projects/Argentina_World_Cup_Slider debs
+dpkg-deb -bZgzip projects/Arsenal_FC_Slider debs
+dpkg-deb -bZgzip projects/ASAP_Rocky_Slider debs
+dpkg-deb -bZgzip projects/Assassins_Creed_Syndicate_Slider debs
 # dpkg-deb -bZgzip projects/<project name> <output folder>
