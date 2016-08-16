@@ -42,4 +42,11 @@ dpkg-deb -bZgzip projects/Assassins_Creed_Syndicate_Slider debs
 dpkg-deb -bZgzip projects/Alienware_Slider debs
 dpkg-deb -bZgzip projects/Anchor_Infini_Slider debs
 dpkg-deb -bZgzip projects/Anonymous_Slider debs
+dpkg-deb -bZgzip projects/Elephant_Boot_Logo debs
+dpkg-deb -bZgzip projects/Fedora_Boot_Logo debs
+dpkg-deb -bZgzip projects/He_Greater_Than_i_Boot_Logo debs
+dpkg-deb -bZgzip projects/Honda_Integra_Type_R_Boot_Logo debs
+dpkg-deb -bZgzip projects/Mini_Cooper_Boot_Logo debs
+dpkg-deb -bZgzip projects/Razer_Chroma_Keyboard_Boot_Logo debs
+dpkg-deb -bZgzip projects/Sailor_Moon_Boot_Logo debs
 # dpkg-deb -bZgzip projects/<project name> <output folder>
