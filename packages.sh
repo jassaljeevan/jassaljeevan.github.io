@@ -49,4 +49,5 @@ dpkg-deb -bZgzip projects/Honda_Integra_Type_R_Boot_Logo debs
 dpkg-deb -bZgzip projects/Mini_Cooper_Boot_Logo debs
 dpkg-deb -bZgzip projects/Razer_Chroma_Keyboard_Boot_Logo debs
 dpkg-deb -bZgzip projects/Sailor_Moon_Boot_Logo debs
+dpkg-deb -bZgzip projects/Lana_Parrilla_Boot_Logo debs
 # dpkg-deb -bZgzip projects/<project name> <output folder>
